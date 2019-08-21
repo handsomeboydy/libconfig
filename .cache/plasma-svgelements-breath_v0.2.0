@@ -1,10 +1,10 @@
 [/usr/share/icons/breath/actions/16/application-menu.svg]
 _Natural_1Size=0,0,16,16
-invalidElements=16_16_current-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_application-menu_0_1,16_16_hint-apply-color-scheme_0_1
+invalidElements=Natural_application-menu_0_1,Natural_current-color-scheme_0_1,16_16_hint-apply-color-scheme_0_1,16_16_current-color-scheme_0_1
 
 [/usr/share/icons/breath/actions/16/arrow-down.svg]
 _Natural_1Size=0,0,16,16
-invalidElements=16_16_current-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_arrow-down_0_1,16_16_hint-apply-color-scheme_0_1
+invalidElements=Natural_current-color-scheme_0_1,16_16_hint-apply-color-scheme_0_1,Natural_arrow-down_0_1,16_16_current-color-scheme_0_1
 
 [/usr/share/icons/breath/actions/16/delete.svg]
 _Natural_1Size=0,0,16,16
@@ -12,7 +12,7 @@ invalidElements=Natural_current-color-scheme_0_1,Natural_delete_0_1,16_16_hint-a
 
 [/usr/share/icons/breath/actions/16/edit-clear-history.svg]
 _Natural_1Size=0,0,16,16
-invalidElements=16_16_current-color-scheme_0_1,Natural_current-color-scheme_0_1,16_16_hint-apply-color-scheme_0_1,Natural_edit-clear-history_0_1
+invalidElements=Natural_current-color-scheme_0_1,16_16_hint-apply-color-scheme_0_1,16_16_current-color-scheme_0_1,Natural_edit-clear-history_0_1
 
 [/usr/share/icons/breath/actions/16/media-mount.svg]
 _Natural_1Size=0,0,16,16
@@ -20,7 +20,7 @@ invalidElements=16_16_current-color-scheme_0_1,Natural_current-color-scheme_0_1,
 
 [/usr/share/icons/breath/actions/16/search.svg]
 _Natural_1Size=0,0,16,16
-invalidElements=Natural_search_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural_search_0_1,Natural_hint-apply-color-scheme_0_1
 
 [/usr/share/icons/breath/actions/16/transform-move.svg]
 _Natural_1Size=0,0,16,16
@@ -32,7 +32,7 @@ invalidElements=Natural_current-color-scheme_0_1,16_16_delete_0_1,Natural_delete
 
 [/usr/share/icons/breath/actions/22/edit-clear-locationbar-rtl.svg]
 _Natural_1Size=0,0,22,22
-invalidElements=Natural_current-color-scheme_0_1,Natural_edit-clear-locationbar-rtl_0_1,22_22_current-color-scheme_0_1,22_22_hint-apply-color-scheme_0_1
+invalidElements=Natural_current-color-scheme_0_1,22_22_hint-apply-color-scheme_0_1,Natural_edit-clear-locationbar-rtl_0_1,22_22_current-color-scheme_0_1
 
 [/usr/share/icons/breath/actions/22/transform-move.svg]
 _Natural_1Size=0,0,22,22
@@ -44,15 +44,15 @@ invalidElements=Natural_current-color-scheme_0_1,22_22_hint-apply-color-scheme_0
 
 [/usr/share/icons/breath/actions/24/edit-clear-history.svg]
 _Natural_1Size=0,0,24,24
-invalidElements=54_32_current-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,16_16_edit-clear-history_0_1,Natural_edit-clear-history_0_1
+invalidElements=Natural_current-color-scheme_0_1,16_16_edit-clear-history_0_1,Natural_hint-apply-color-scheme_0_1,54_32_current-color-scheme_0_1,Natural_edit-clear-history_0_1
 
 [/usr/share/icons/breath/actions/24/edit-clear-locationbar-rtl.svg]
 _Natural_1Size=0,0,24,24
-invalidElements=54_32_current-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_edit-clear-locationbar-rtl_0_1,22_22_edit-clear-locationbar-rtl_0_1
+invalidElements=Natural_current-color-scheme_0_1,22_22_edit-clear-locationbar-rtl_0_1,Natural_edit-clear-locationbar-rtl_0_1,Natural_hint-apply-color-scheme_0_1,54_32_current-color-scheme_0_1
 
 [/usr/share/icons/breath/actions/24/go-jump-today.svg]
 _Natural_1Size=0,0,24,24
-invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,32_32_go-jump-today_0_1,22_22_current-color-scheme_0_1,Natural_go-jump-today_0_1,Natural__0_1
+invalidElements=Natural_current-color-scheme_0_1,22_22_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,32_32_go-jump-today_0_1,Natural__0_1,Natural_go-jump-today_0_1
 
 [/usr/share/icons/breath/actions/24/media-mount.svg]
 _Natural_1Size=0,0,24,24
@@ -72,11 +72,11 @@ invalidElements=Natural_current-color-scheme_0_1,22_22_visibility_0_1,Natural_vi
 
 [/usr/share/icons/breath/actions/32/application-menu.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=16_16_application-menu_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_application-menu_0_1
+invalidElements=Natural_application-menu_0_1,Natural_current-color-scheme_0_1,16_16_application-menu_0_1,Natural_hint-apply-color-scheme_0_1
 
 [/usr/share/icons/breath/actions/32/arrow-down.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_arrow-down_0_1,16_16_arrow-down_0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural_arrow-down_0_1,Natural_hint-apply-color-scheme_0_1,16_16_arrow-down_0_1
 
 [/usr/share/icons/breath/actions/32/system-lock-screen.svg]
 _Natural_1Size=0,0,32,32
@@ -104,19 +104,19 @@ invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme
 
 [/usr/share/icons/breath/applets/128/user-identity.svg]
 _Natural_1Size=0,0,128,128
-invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_user-identity_0_1,48_48_user-identity_0_1
+invalidElements=Natural_current-color-scheme_0_1,48_48_user-identity_0_1,Natural_hint-apply-color-scheme_0_1,Natural_user-identity_0_1
 
 [/usr/share/icons/breath/apps/16/applications-internet.svg]
 _Natural_1Size=0,0,16,16
-invalidElements=Natural_applications-internet_0_1,16_16_current-color-scheme_0_1,Natural_current-color-scheme_0_1,16_16_hint-apply-color-scheme_0_1
+invalidElements=Natural_current-color-scheme_0_1,16_16_hint-apply-color-scheme_0_1,16_16_current-color-scheme_0_1,Natural_applications-internet_0_1
 
 [/usr/share/icons/breath/apps/16/system-file-manager.svg]
 _Natural_1Size=0,0,16,16
-invalidElements=8_8_system-file-manager_0_1,16_16_current-color-scheme_0_1,Natural_system-file-manager_0_1,Natural_current-color-scheme_0_1,8_8_hint-apply-color-scheme_0_1,16_16_hint-apply-color-scheme_0_1,8_8_current-color-scheme_0_1
+invalidElements=Natural_current-color-scheme_0_1,16_16_hint-apply-color-scheme_0_1,8_8_system-file-manager_0_1,16_16_current-color-scheme_0_1,8_8_current-color-scheme_0_1,8_8_hint-apply-color-scheme_0_1,Natural_system-file-manager_0_1
 
 [/usr/share/icons/breath/apps/16/utilities-terminal.svg]
 _Natural_1Size=0,0,16,16
-invalidElements=8_8_utilities-terminal_0_1,16_16_current-color-scheme_0_1,Natural_utilities-terminal_0_1,Natural_current-color-scheme_0_1,8_8_hint-apply-color-scheme_0_1,16_16_hint-apply-color-scheme_0_1,8_8_current-color-scheme_0_1
+invalidElements=Natural_current-color-scheme_0_1,16_16_hint-apply-color-scheme_0_1,8_8_utilities-terminal_0_1,16_16_current-color-scheme_0_1,8_8_current-color-scheme_0_1,Natural_utilities-terminal_0_1,8_8_hint-apply-color-scheme_0_1
 
 [/usr/share/icons/breath/apps/22/system-file-manager.svg]
 _Natural_1Size=0,0,22,22
@@ -124,11 +124,11 @@ invalidElements=Natural_system-file-manager_0_1,Natural_current-color-scheme_0_1
 
 [/usr/share/icons/breath/apps/32/system-file-manager.svg]
 _Natural_1Size=0,0,30,28
-invalidElements=8_8_system-file-manager_0_1,22_22_system-file-manager_0_1,32_32_system-file-manager_0_1,Natural_system-file-manager_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,16_16_system-file-manager_0_1,Natural__0_1
+invalidElements=Natural_current-color-scheme_0_1,8_8_system-file-manager_0_1,16_16_system-file-manager_0_1,Natural_hint-apply-color-scheme_0_1,32_32_system-file-manager_0_1,Natural__0_1,22_22_system-file-manager_0_1,Natural_system-file-manager_0_1
 
 [/usr/share/icons/breath/apps/32/utilities-terminal.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=32_32_hint-apply-color-scheme_0_1,8_8_utilities-terminal_0_1,16_16_utilities-terminal_0_1,Natural_utilities-terminal_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,114_114_utilities-terminal_0_1,Natural__0_1
+invalidElements=16_16_utilities-terminal_0_1,Natural_current-color-scheme_0_1,114_114_utilities-terminal_0_1,8_8_utilities-terminal_0_1,Natural_hint-apply-color-scheme_0_1,Natural_utilities-terminal_0_1,32_32_hint-apply-color-scheme_0_1,Natural__0_1
 
 [/usr/share/icons/breath/apps/48/gwenview.svg]
 _Natural_1Size=0,0,48,48
@@ -144,19 +144,19 @@ invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme
 
 [/usr/share/icons/breath/apps/48/konversation.svg]
 _Natural_1Size=0,0,48,48
-invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,32_32_konversation_0_1,Natural__0_1
+invalidElements=Natural_current-color-scheme_0_1,32_32_konversation_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
 
 [/usr/share/icons/breath/apps/48/libreoffice-writer.svg]
 _Natural_1Size=0,0,48,48
-invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,32_32_libreoffice-writer_0_1,Natural__0_1
+invalidElements=Natural_current-color-scheme_0_1,32_32_libreoffice-writer_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
 
 [/usr/share/icons/breath/apps/48/octopi.svg]
 _Natural_1Size=0,0,48,48
-invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,32_32_octopi_0_1,Natural__0_1
+invalidElements=Natural_current-color-scheme_0_1,32_32_octopi_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
 
 [/usr/share/icons/breath/apps/48/preferences-system.svg]
 _Natural_1Size=0,0,48,48
-invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,32_32_preferences-system_0_1,Natural__0_1
+invalidElements=32_32_preferences-system_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
 
 [/usr/share/icons/breath/apps/48/qdbusviewer.svg]
 _Natural_1Size=0,0,48,48
@@ -172,7 +172,7 @@ invalidElements=114_114_hint-apply-color-scheme_0_1,114_114_utilities-terminal_0
 
 [/usr/share/icons/breath/apps/48/yakuake.svg]
 _Natural_1Size=0,0,48,48
-invalidElements=Natural_current-color-scheme_0_1,Natural_yakuake_0_1,Natural_hint-apply-color-scheme_0_1,16_16_yakuake_0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_yakuake_0_1,16_16_yakuake_0_1
 
 [/usr/share/icons/breath/categories/32/applications-development.svg]
 _Natural_1Size=0,0,32,32
@@ -192,7 +192,7 @@ invalidElements=Natural_current-color-scheme_0_1,Natural_applications-graphics_0
 
 [/usr/share/icons/breath/categories/32/applications-internet.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_applications-internet_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,16_16_applications-internet_0_1,Natural__0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1,Natural_applications-internet_0_1,16_16_applications-internet_0_1
 
 [/usr/share/icons/breath/categories/32/applications-multimedia.svg]
 _Natural_1Size=0,0,32,32
@@ -216,11 +216,15 @@ invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme
 
 [/usr/share/icons/breath/devices/22/network-wired-activated.svg]
 _Natural_1Size=0,0,22,22
-invalidElements=Natural_current-color-scheme_0_1,Natural_network-wired-activated_0_1,Natural_hint-apply-color-scheme_0_1,48_48_network-wired-activated_0_1
+invalidElements=48_48_network-wired-activated_0_1,Natural_network-wired-activated_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
+
+[/usr/share/icons/breath/devices/22/network-wireless-disconnected.svg]
+_Natural_1Size=0,0,22,22
+invalidElements=Natural_network-wireless-disconnected_0_1,48_48_network-wireless-disconnected_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
 
 [/usr/share/icons/breath/devices/64/audio-card.svg]
 _Natural_1Size=0,0,64,64
-invalidElements=Natural_audio-card_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,22_22_current-color-scheme_0_1,32_32_audio-card_0_1
+invalidElements=Natural_current-color-scheme_0_1,22_22_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,32_32_audio-card_0_1,Natural_audio-card_0_1
 
 [/usr/share/icons/breath/devices/64/camera-photo.svg]
 _Natural_1Size=0,0,64,64
@@ -240,15 +244,15 @@ invalidElements=Natural_current-color-scheme_0_1,Natural__0_1,Natural_hint-apply
 
 [/usr/share/icons/breath/mimetypes/32/unknown.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_unknown_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural_unknown_0_1,Natural_hint-apply-color-scheme_0_1
 
 [/usr/share/icons/breath/places/22/user-desktop.svg]
 _Natural_1Size=0,0,22,22
-invalidElements=Natural_current-color-scheme_0_1,Natural_user-desktop_0_1,22_22_current-color-scheme_0_1,22_22_hint-apply-color-scheme_0_1
+invalidElements=Natural_current-color-scheme_0_1,22_22_hint-apply-color-scheme_0_1,22_22_current-color-scheme_0_1,Natural_user-desktop_0_1
 
 [/usr/share/icons/breath/places/22/user-trash.svg]
 _Natural_1Size=0,0,22,22
-invalidElements=Natural_current-color-scheme_0_1,22_22_current-color-scheme_0_1,22_22_hint-apply-color-scheme_0_1,Natural_user-trash_0_1
+invalidElements=Natural_current-color-scheme_0_1,22_22_hint-apply-color-scheme_0_1,22_22_current-color-scheme_0_1,Natural_user-trash_0_1
 
 [/usr/share/icons/breath/places/32/folder-downloads.svg]
 _Natural_1Size=0,0,32,32
@@ -280,7 +284,7 @@ invalidElements=Natural_current-color-scheme_0_1,Natural__0_1,Natural_hint-apply
 
 [/usr/share/icons/breath/places/32/user-desktop.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_current-color-scheme_0_1,22_22_user-desktop_0_1,Natural_hint-apply-color-scheme_0_1,Natural_user-desktop_0_1,22_22_current-color-scheme_0_1,Natural__0_1
+invalidElements=Natural_current-color-scheme_0_1,22_22_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,22_22_user-desktop_0_1,Natural__0_1,Natural_user-desktop_0_1
 
 [/usr/share/icons/breath/places/32/user-home.svg]
 _Natural_1Size=0,0,32,32
@@ -288,7 +292,7 @@ invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme
 
 [/usr/share/icons/breath/places/32/user-trash.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,22_22_user-trash_0_1,22_22_current-color-scheme_0_1,Natural_user-trash_0_1,Natural__0_1
+invalidElements=Natural_current-color-scheme_0_1,22_22_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,22_22_user-trash_0_1,Natural_user-trash_0_1,Natural__0_1
 
 [/usr/share/icons/breath/preferences/32/plasma.svg]
 _Natural_1Size=0,0,32,32
@@ -298,13 +302,17 @@ invalidElements=Natural_current-color-scheme_0_1,Natural__0_1,Natural_plasma_0_1
 _Natural_1Size=0,0,32,32
 invalidElements=Natural_current-color-scheme_0_1,Natural_preferences-desktop-locale_0_1,Natural_hint-apply-color-scheme_0_1
 
+[/usr/share/icons/breath/preferences/32/preferences-desktop-notification-bell.svg]
+_Natural_1Size=0,0,32,32
+invalidElements=Natural_current-color-scheme_0_1,16_16_preferences-desktop-notification-bell_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
+
 [/usr/share/icons/breath/preferences/32/preferences-system-network.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_current-color-scheme_0_1,Natural__0_1,Natural_preferences-system-network_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural_preferences-system-network_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1,16_16_preferences-system-network_0_1
 
 [/usr/share/icons/breath/preferences/32/preferences-system-time.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_preferences-system-time_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,22_22_current-color-scheme_0_1
+invalidElements=Natural_current-color-scheme_0_1,22_22_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_preferences-system-time_0_1
 
 [/usr/share/icons/breath/preferences/32/system-run.svg]
 _Natural_1Size=0,0,32,32
@@ -351,14 +359,14 @@ Natural_top_0_1Size=81.00003385958007,10,39.99999960000014,5
 Natural_topleft_0_1Size=76,10,5,5
 Natural_topright_0_1Size=121,10,5,5
 _Natural_1Size=0,0,218,66
-invalidElements=Natural_-center_0_1,Natural_mask-hint-right-margin_0_1,Natural_mask-hint-left-margin_0_1,Natural_current-color-scheme_0_1,Natural_hint-compose-over-border_0_1,Natural_hint-apply-color-scheme_0_1,Natural_mask-hint-top-margin_0_1,Natural_overlay_0_1,Natural_mask-hint-stretch-borders_0_1,Natural_mask-hint-no-border-padding_0_1,Natural_mask-hint-compose-over-border_0_1,Natural__0_1,Natural_mask-hint-bottom-margin_0_1,Natural_hint-stretch-borders_0_1,Natural_hint-no-border-padding_0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural_overlay_0_1,Natural_mask-hint-compose-over-border_0_1,Natural_mask-hint-no-border-padding_0_1,Natural_hint-apply-color-scheme_0_1,Natural_mask-hint-left-margin_0_1,Natural_hint-no-border-padding_0_1,Natural_-center_0_1,Natural_mask-hint-stretch-borders_0_1,Natural_mask-hint-right-margin_0_1,Natural__0_1,Natural_hint-compose-over-border_0_1,Natural_mask-hint-top-margin_0_1,Natural_mask-hint-bottom-margin_0_1,Natural_hint-stretch-borders_0_1
 
 [/usr/share/plasma/desktoptheme/breath/icons/audio.svgz]
 16_16_audio-volume-high_0_1Size=-6.935813236363637e-07,0,16,16
 Natural_audio-volume-high_0_1Size=-9.5367432e-07,0,22,22
 Natural_audio-volume-muted_0_1Size=-9.5367432e-07,78,22,22
 _Natural_1Size=0,0,22,22
-invalidElements=Natural_audio-card_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,16_16__0_1,Natural__0_1
+invalidElements=16_16__0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1,Natural_audio-card_0_1
 
 [/usr/share/plasma/desktoptheme/breath/icons/battery.svgz]
 Natural_22-22-AcAdapter_0_1Size=236.53572,426.50504,21.99999999999997,22
@@ -422,7 +430,7 @@ invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme
 [/usr/share/plasma/desktoptheme/breath/icons/edit.svgz]
 Natural_32-32-edit-delete_0_1Size=22,0,32,32
 _Natural_1Size=0,0,54,32
-invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_edit-clear-locationbar-rtl_0_1,Natural_edit-clear-history_0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural_edit-clear-locationbar-rtl_0_1,Natural_hint-apply-color-scheme_0_1,Natural_edit-clear-history_0_1
 
 [/usr/share/plasma/desktoptheme/breath/icons/go.svgz]
 16_16_go-down_0_1Size=64,-1.454545459141214e-05,16,16
@@ -434,7 +442,7 @@ Natural_go-next_0_1Size=44,-2.0000000063191692e-05,22,22
 Natural_go-previous_0_1Size=22,-2.0000000063191692e-05,22,22
 Natural_go-up_0_1Size=66,-2.0000000063191692e-05,22,22
 _Natural_1Size=0,0,22,22
-invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,16_16__0_1,Natural_go-jump-today_0_1,Natural__0_1
+invalidElements=16_16__0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1,Natural_go-jump-today_0_1
 
 [/usr/share/plasma/desktoptheme/breath/icons/kdeconnect.svgz]
 Natural_16-16-kdeconnect_0_1Size=3.5624746999980004,28.281237670136,15.999999999999998,16
@@ -453,21 +461,25 @@ invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme
 16_16_list-add_0_1Size=0,0,16,16
 Natural_list-add_0_1Size=0,0,22,22
 _Natural_1Size=0,0,22,22
-invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,16_16__0_1
+invalidElements=16_16__0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
 
 [/usr/share/plasma/desktoptheme/breath/icons/media.svgz]
 16_16_media-eject_0_1Size=139.63636357928402,1.0256291550996883e-06,16.000000495097,15.99996776849453
 Natural_media-eject_0_1Size=191.99999992151552,1.4102400882620714e-06,22.000000680758376,21.999955681679978
 _Natural_1Size=0,0,22,22
-invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_media-mount_0_1,16_16__0_1
+invalidElements=Natural_media-mount_0_1,16_16__0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
 
 [/usr/share/plasma/desktoptheme/breath/icons/network.svgz]
+32_32_network-wired-activated_0_1Size=0,0,32,32
+32_32_network-wired_0_1Size=192,0,32,32
 32_32_network-wireless-connected-80_0_1Size=-194.9090909090909,40.72727272727273,32,32
 48_48_network-wired-activated_0_1Size=0,0,48,48
 Natural_network-flightmode-off_0_1Size=53.0000054073485,125.0000073706055,22.000000000000007,21.999999999999986
 Natural_network-mobile-off_0_1Size=225.99994000000004,63.9996000000001,22.000060999999988,21.999430000000004
+Natural_network-wired-activated-limited_0_1Size=82.14649,0,22,22
 Natural_network-wired-activated_0_1Size=0,0,22,22
 Natural_network-wired-available_0_1Size=107,0,22,22
+Natural_network-wired_0_1Size=132,0,22,22
 Natural_network-wireless-100_0_1Size=-200,0,22,22
 Natural_network-wireless-60_0_1Size=-200,56,22,22
 Natural_network-wireless-80-limited_0_1Size=-66,0,22,22
@@ -475,7 +487,7 @@ Natural_network-wireless-80_0_1Size=-200,28,22,22
 Natural_network-wireless-connected-80_0_1Size=-134,28,22,22
 Natural_network-wireless-on_0_1Size=-200,-26,22,22
 _Natural_1Size=0,0,22,22
-invalidElements=48_48__0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,32_32__0_1,Natural__0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,32_32__0_1,48_48__0_1,Natural__0_1
 
 [/usr/share/plasma/desktoptheme/breath/icons/notification.svgz]
 Natural_notification-active_0_1Size=0,40,22,22
@@ -490,7 +502,7 @@ Natural_preferences-desktop-notification_0_1Size=-26,0,22,22
 Natural_preferences-system-bluetooth-inactive_0_1Size=0,22,22,22
 Natural_preferences-system-bluetooth_0_1Size=-26,22,22,22
 _Natural_1Size=0,0,22,22
-invalidElements=Natural_preferences-system-time_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,16_16__0_1,22_22_current-color-scheme_0_1,22_22_hint-apply-color-scheme_0_1,Natural__0_1
+invalidElements=16_16__0_1,Natural_current-color-scheme_0_1,22_22_hint-apply-color-scheme_0_1,22_22_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1,Natural_preferences-system-time_0_1
 
 [/usr/share/plasma/desktoptheme/breath/icons/printer.svgz]
 Natural_printer_0_1Size=0,0,22,22
@@ -501,7 +513,7 @@ invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme
 22_22_start-here-kde_0_1Size=0,0,22,22
 Natural_start-here-kde_0_1Size=0,0,32,32
 _Natural_1Size=0,0,32,32
-invalidElements=32_32_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1,22_22__0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,22_22__0_1,32_32_hint-apply-color-scheme_0_1,Natural__0_1
 
 [/usr/share/plasma/desktoptheme/breath/icons/system.svgz]
 32_32_system-log-out_0_1Size=13.037037037037036,0,18.962962962962962,8
@@ -517,11 +529,11 @@ Natural_22-22-system-switch-user_0_1Size=54,10,22,22
 Natural_22-22-system-users_0_1Size=54,42,22,22
 Natural_system-log-out_0_1Size=22,0,32,32
 _Natural_1Size=0,0,54,128
-invalidElements=Natural_system-file-manager_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,32_32__0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,32_32__0_1,Natural_system-file-manager_0_1
 
 [/usr/share/plasma/desktoptheme/breath/icons/user.svgz]
 _Natural_1Size=0,0,22,22
-invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_user-desktop_0_1,Natural_user-trash_0_1
+invalidElements=Natural_user-trash_0_1,Natural_user-desktop_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
 
 [/usr/share/plasma/desktoptheme/breath/icons/video.svgz]
 32_32_video-display-brightness_0_1Size=46.54545454545455,-14.545454545454547,46.54545454545455,46.54545454545455
@@ -544,7 +556,7 @@ invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme
 Natural_window-close_0_1Size=0,0,22,22
 Natural_window-pin_0_1Size=30,7,10,10
 _Natural_1Size=0,0,22,22
-invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,16_16__0_1,Natural_window-minimize_0_1,Natural__0_1,8_8__0_1
+invalidElements=16_16__0_1,Natural_current-color-scheme_0_1,Natural_window-minimize_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1,8_8__0_1
 
 [/usr/share/plasma/desktoptheme/breath/widgets/action-overlays.svgz]
 _Natural_1Size=0,0,22,76
@@ -562,7 +574,7 @@ invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme
 [/usr/share/plasma/desktoptheme/breath/widgets/arrows.svgz]
 Natural_down-arrow_0_1Size=18,1.1368683772161603e-13,14,14
 _Natural_1Size=0,0,67,14
-invalidElements=16_16_current-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,16_16_hint-apply-color-scheme_0_1,Natural__0_1
+invalidElements=Natural_current-color-scheme_0_1,16_16_hint-apply-color-scheme_0_1,16_16_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
 
 [/usr/share/plasma/desktoptheme/breath/widgets/bar_meter_horizontal.svgz]
 Natural_bar-active-bottom_0_1Size=98,13,3,3
@@ -638,7 +650,7 @@ Natural_pressed-top_0_1Size=7.000023541564815,38.000000236719984,74.999989899999
 Natural_pressed-topleft_0_1Size=-5.684341886080802e-14,38.000001999999995,7.000010000000032,7.000009999999975
 Natural_pressed-topright_0_1Size=81.99999000000003,38.000001999999995,7.000009999999975,7.000009999999975
 _Natural_1Size=0,0,89,62
-invalidElements=Natural_left_0_1,Natural_shadow-center_0_1,Natural_hint-right-margin_0_1,Natural_hint-stretch-borders_0_1,Natural_pressed-hint-no-border-padding_0_1,Natural_hover-overlay_0_1,Natural_hint-apply-color-scheme_0_1,Natural_normal-overlay_0_1,Natural_pressed-overlay_0_1,Natural_mask-pressed-center_0_1,Natural_toolbutton-hover-center_0_1,Natural_hint-compose-over-border_0_1,Natural_normal--center_0_1,Natural_current-color-scheme_0_1,Natural_center_0_1,Natural_pressed--center_0_1,Natural_-center_0_1,Natural_mask-normal-center_0_1,Natural_hover--center_0_1,Natural_normal-hint-no-border-padding_0_1,Natural_top_0_1,Natural_hint-left-margin_0_1,Natural_hint-top-margin_0_1,Natural_hover-hint-compose-over-border_0_1,Natural__0_1,Natural_hover-hint-stretch-borders_0_1,Natural_normal-hint-stretch-borders_0_1,Natural_pressed-hint-stretch-borders_0_1,Natural_hint-tile-center_0_1,Natural_pressed-hint-tile-center_0_1,Natural_hover-hint-tile-center_0_1,Natural_bottom_0_1,Natural_normal-hint-tile-center_0_1,Natural_overlay_0_1,Natural_hover-hint-no-border-padding_0_1,Natural_hint-no-border-padding_0_1,Natural_right_0_1,Natural_hint-bottom-margin_0_1,Natural_toolbutton-pressed-center_0_1
+invalidElements=Natural_mask-normal-center_0_1,Natural_normal-hint-tile-center_0_1,Natural_hover-hint-compose-over-border_0_1,Natural_hint-right-margin_0_1,Natural_mask-pressed-center_0_1,Natural_center_0_1,Natural_normal-hint-stretch-borders_0_1,Natural_hint-no-border-padding_0_1,Natural_top_0_1,Natural_toolbutton-hover-center_0_1,Natural_normal--center_0_1,Natural_normal-hint-no-border-padding_0_1,Natural_hint-apply-color-scheme_0_1,Natural_hover-overlay_0_1,Natural_left_0_1,Natural_overlay_0_1,Natural_hint-tile-center_0_1,Natural_-center_0_1,Natural_toolbutton-pressed-center_0_1,Natural_hover-hint-no-border-padding_0_1,Natural_hint-top-margin_0_1,Natural_current-color-scheme_0_1,Natural_bottom_0_1,Natural_hint-left-margin_0_1,Natural_pressed-hint-stretch-borders_0_1,Natural_hover--center_0_1,Natural_hover-hint-stretch-borders_0_1,Natural__0_1,Natural_pressed--center_0_1,Natural_hint-stretch-borders_0_1,Natural_pressed-hint-tile-center_0_1,Natural_pressed-hint-no-border-padding_0_1,Natural_hint-compose-over-border_0_1,Natural_hover-hint-tile-center_0_1,Natural_shadow-center_0_1,Natural_normal-overlay_0_1,Natural_hint-bottom-margin_0_1,Natural_pressed-overlay_0_1,Natural_right_0_1
 
 [/usr/share/plasma/desktoptheme/breath/widgets/calendar.svgz]
 _Natural_1Size=0,0,30,30
@@ -701,7 +713,7 @@ Natural_base-topleft_0_1Size=0,0,7.000009999999975,7.000009999999975
 Natural_base-topright_0_1Size=17.999990000000025,0,7.000009999999975,7.000009999999975
 Natural_hint-stretch-borders_0_1Size=-40,-10,3,3
 _Natural_1Size=0,0,25,25
-invalidElements=Natural_overlay_0_1,Natural_base-hint-compose-over-border_0_1,Natural_base-overlay_0_1,Natural_hint-focus-over-base_0_1,Natural_center_0_1,Natural_top_0_1,Natural_hint-no-border-padding_0_1,Natural_hint-tile-center_0_1,Natural_hint-bottom-margin_0_1,Natural_bottom_0_1,Natural_hint-apply-color-scheme_0_1,Natural_right_0_1,Natural_hint-right-margin_0_1,Natural_left_0_1,Natural_hint-top-margin_0_1,Natural_base--center_0_1,Natural_base-hint-tile-center_0_1,Natural_current-color-scheme_0_1,Natural_hint-left-margin_0_1,Natural_base-hint-no-border-padding_0_1,Natural_-center_0_1,Natural_focus-center_0_1,Natural_hover-center_0_1,Natural__0_1,Natural_hint-compose-over-border_0_1
+invalidElements=Natural_focus-center_0_1,Natural_hint-right-margin_0_1,Natural_hover-center_0_1,Natural_top_0_1,Natural_current-color-scheme_0_1,Natural_-center_0_1,Natural__0_1,Natural_base-hint-tile-center_0_1,Natural_center_0_1,Natural_hint-left-margin_0_1,Natural_left_0_1,Natural_hint-apply-color-scheme_0_1,Natural_hint-compose-over-border_0_1,Natural_hint-focus-over-base_0_1,Natural_hint-top-margin_0_1,Natural_base--center_0_1,Natural_right_0_1,Natural_base-hint-compose-over-border_0_1,Natural_overlay_0_1,Natural_base-hint-no-border-padding_0_1,Natural_hint-bottom-margin_0_1,Natural_base-overlay_0_1,Natural_bottom_0_1,Natural_hint-tile-center_0_1,Natural_hint-no-border-padding_0_1
 
 [/usr/share/plasma/desktoptheme/breath/widgets/listitem.svgz]
 Natural_hint-tile-center_0_1Size=-10,-10,2.0329318,2.077126
@@ -745,7 +757,7 @@ Natural_section-top_0_1Size=19.999964000000002,50.999953,11.000036999999999,2.00
 Natural_section-topleft_0_1Size=18.000001,51,2,2
 Natural_section-topright_0_1Size=31,51,2,2
 _Natural_1Size=0,0,128,300
-invalidElements=Natural_pressed-overlay_0_1,Natural_section-overlay_0_1,Natural_top_0_1,Natural_section--center_0_1,Natural_hint-no-border-padding_0_1,Natural_pressed--center_0_1,Natural_normal--center_0_1,Natural_hint-bottom-margin_0_1,Natural_section-hint-compose-over-border_0_1,Natural_pressed-hint-compose-over-border_0_1,Natural_normal-hint-stretch-borders_0_1,Natural_bottom_0_1,Natural_hint-apply-color-scheme_0_1,Natural_right_0_1,Natural_hint-right-margin_0_1,Natural_section-hint-no-border-padding_0_1,Natural_left_0_1,Natural_hint-top-margin_0_1,Natural_section-hint-stretch-borders_0_1,Natural_pressed-hint-no-border-padding_0_1,Natural_current-color-scheme_0_1,Natural_normal-overlay_0_1,Natural_hint-stretch-borders_0_1,Natural_separator_0_1,Natural_pressed-hint-stretch-borders_0_1,Natural_normal-hint-no-border-padding_0_1,Natural_hint-left-margin_0_1,Natural_-center_0_1,Natural_normal-hint-compose-over-border_0_1,Natural__0_1,Natural_hint-compose-over-border_0_1
+invalidElements=Natural_hint-left-margin_0_1,Natural_bottom_0_1,Natural_normal-hint-stretch-borders_0_1,Natural_hint-no-border-padding_0_1,Natural_normal--center_0_1,Natural_hint-bottom-margin_0_1,Natural_left_0_1,Natural_section-hint-stretch-borders_0_1,Natural_current-color-scheme_0_1,Natural_normal-hint-no-border-padding_0_1,Natural_section-hint-compose-over-border_0_1,Natural_normal-hint-compose-over-border_0_1,Natural_normal-overlay_0_1,Natural_pressed-hint-compose-over-border_0_1,Natural_top_0_1,Natural_section-hint-no-border-padding_0_1,Natural_separator_0_1,Natural_right_0_1,Natural_section--center_0_1,Natural__0_1,Natural_pressed--center_0_1,Natural_pressed-hint-no-border-padding_0_1,Natural_hint-stretch-borders_0_1,Natural_-center_0_1,Natural_pressed-overlay_0_1,Natural_hint-right-margin_0_1,Natural_hint-top-margin_0_1,Natural_hint-apply-color-scheme_0_1,Natural_pressed-hint-stretch-borders_0_1,Natural_section-overlay_0_1,Natural_hint-compose-over-border_0_1
 
 [/usr/share/plasma/desktoptheme/breath/widgets/pager.svgz]
 Natural_active-bottom_0_1Size=-25.99999200000002,26.999990000000025,4.00000399999999,5
@@ -777,7 +789,7 @@ Natural_normal-top_0_1Size=-25.99999200000002,1.0000000000001137,4.0000039999999
 Natural_normal-topleft_0_1Size=-30.999990000000025,1,5,5
 Natural_normal-topright_0_1Size=-21.999990000000025,1.000004800000056,5,5
 _Natural_1Size=0,0,16,50
-invalidElements=Natural_hover-overlay_0_1,Natural_hover-hint-compose-over-border_0_1,Natural_active-hint-compose-over-border_0_1,Natural_hover-hint-right-margin_0_1,Natural_hover-hint-top-margin_0_1,Natural_hint-no-border-padding_0_1,Natural_normal-hint-top-margin_0_1,Natural_normal--center_0_1,Natural_active-overlay_0_1,Natural_active-hint-no-border-padding_0_1,Natural_active-hint-stretch-borders_0_1,Natural_normal-hint-bottom-margin_0_1,Natural_normal-hint-stretch-borders_0_1,Natural_hint-apply-color-scheme_0_1,Natural_active-hint-bottom-margin_0_1,Natural_current-color-scheme_0_1,Natural_normal-overlay_0_1,Natural_hint-stretch-borders_0_1,Natural_active-hint-top-margin_0_1,Natural_normal-hint-right-margin_0_1,Natural_hover--center_0_1,Natural_hover-hint-left-margin_0_1,Natural_normal-hint-no-border-padding_0_1,Natural_active-hint-left-margin_0_1,Natural_active--center_0_1,Natural_hover-hint-bottom-margin_0_1,Natural_normal-hint-compose-over-border_0_1,Natural_normal-hint-left-margin_0_1,Natural_hover-hint-no-border-padding_0_1,Natural_active-hint-right-margin_0_1,Natural_hover-hint-stretch-borders_0_1,Natural__0_1
+invalidElements=Natural_active-hint-stretch-borders_0_1,Natural_hover-hint-right-margin_0_1,Natural_current-color-scheme_0_1,Natural_normal-hint-left-margin_0_1,Natural_hover-hint-bottom-margin_0_1,Natural__0_1,Natural_active-hint-compose-over-border_0_1,Natural_hover-hint-left-margin_0_1,Natural_hint-apply-color-scheme_0_1,Natural_active-hint-top-margin_0_1,Natural_normal-hint-no-border-padding_0_1,Natural_active-hint-right-margin_0_1,Natural_hover-hint-compose-over-border_0_1,Natural_active--center_0_1,Natural_active-hint-bottom-margin_0_1,Natural_normal-overlay_0_1,Natural_hover-overlay_0_1,Natural_normal-hint-stretch-borders_0_1,Natural_normal-hint-bottom-margin_0_1,Natural_active-hint-left-margin_0_1,Natural_normal-hint-compose-over-border_0_1,Natural_hover--center_0_1,Natural_hover-hint-no-border-padding_0_1,Natural_hover-hint-stretch-borders_0_1,Natural_active-overlay_0_1,Natural_hover-hint-top-margin_0_1,Natural_normal-hint-top-margin_0_1,Natural_normal-hint-right-margin_0_1,Natural_normal--center_0_1,Natural_hint-no-border-padding_0_1,Natural_hint-stretch-borders_0_1,Natural_active-hint-no-border-padding_0_1
 
 [/usr/share/plasma/desktoptheme/breath/widgets/panel-background.svgz]
 Natural_bottom_0_1Size=81.00003385958007,51,39.99999960000014,5
@@ -815,7 +827,7 @@ Natural_top_0_1Size=81.00003385958007,10,39.99999960000014,5
 Natural_topleft_0_1Size=76,10,5,5
 Natural_topright_0_1Size=121,10,5,5
 _Natural_1Size=0,0,218,66
-invalidElements=Natural_-center_0_1,Natural_mask-hint-right-margin_0_1,Natural_mask-hint-left-margin_0_1,Natural_current-color-scheme_0_1,Natural_hint-compose-over-border_0_1,Natural_hint-apply-color-scheme_0_1,Natural_mask-hint-top-margin_0_1,Natural_south-center_0_1,Natural_overlay_0_1,Natural_mask-hint-stretch-borders_0_1,Natural_mask-hint-no-border-padding_0_1,Natural_mask-hint-compose-over-border_0_1,Natural_west-center_0_1,Natural__0_1,Natural_mask-hint-bottom-margin_0_1,Natural_hint-stretch-borders_0_1,Natural_hint-no-border-padding_0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural_overlay_0_1,Natural_mask-hint-compose-over-border_0_1,Natural_mask-hint-no-border-padding_0_1,Natural_mask-hint-left-margin_0_1,Natural_west-center_0_1,Natural_hint-apply-color-scheme_0_1,Natural_south-center_0_1,Natural_hint-no-border-padding_0_1,Natural_-center_0_1,Natural_mask-hint-stretch-borders_0_1,Natural_mask-hint-right-margin_0_1,Natural__0_1,Natural_mask-hint-top-margin_0_1,Natural_mask-hint-bottom-margin_0_1,Natural_hint-compose-over-border_0_1,Natural_hint-stretch-borders_0_1
 
 [/usr/share/plasma/desktoptheme/breath/widgets/scrollbar.svgz]
 Natural_hint-scrollbar-size_0_1Size=23.000017382813,10.000020000000063,6,6
@@ -829,8 +841,17 @@ Natural_slider-right_0_1Size=35.000017382813,35.999996999999894,2,9.000003000000
 Natural_slider-top_0_1Size=33.000017382813,32.99998000000005,1,2
 Natural_slider-topleft_0_1Size=30.000017382813,33.000003000000106,2,2
 Natural_slider-topright_0_1Size=35.000009382813005,33.00002000000006,2,2
+Natural_sunken-slider-bottom_0_1Size=20.000000382813,68.99998000000005,1,2
+Natural_sunken-slider-bottomleft_0_1Size=17.000007382812996,68.99998000000005,2,2
+Natural_sunken-slider-bottomright_0_1Size=22.000000382813,68.99998000000005,2,2
+Natural_sunken-slider-center_0_1Size=20.000000382813,58.99998000000005,1,9
+Natural_sunken-slider-left_0_1Size=17.000017382813,59.00000699999987,2,9.000003000000106
+Natural_sunken-slider-right_0_1Size=22.000017382813,59.00000699999987,2,9.000003000000106
+Natural_sunken-slider-top_0_1Size=20.000000382813,56.00002600000016,1,2
+Natural_sunken-slider-topleft_0_1Size=17.000007382812996,56.00002600000016,2,2
+Natural_sunken-slider-topright_0_1Size=21.999992382813005,56.00002600000016,2,2
 _Natural_1Size=0,0,48,98
-invalidElements=Natural_slider-hint-no-border-padding_0_1,Natural_background-vertical-center_0_1,Natural_slider-hint-left-margin_0_1,Natural_overlay_0_1,Natural_slider-hint-top-margin_0_1,Natural_center_0_1,Natural_top_0_1,Natural_hint-no-border-padding_0_1,Natural_slider-hint-right-margin_0_1,Natural_background-horizontal-center_0_1,Natural_hint-bottom-margin_0_1,Natural_slider--center_0_1,Natural_arrow-up_0_1,Natural_bottom_0_1,Natural_slider-hint-bottom-margin_0_1,Natural_hint-apply-color-scheme_0_1,Natural_right_0_1,Natural_hint-right-margin_0_1,Natural_slider-overlay_0_1,Natural_left_0_1,Natural_hint-top-margin_0_1,Natural_slider-hint-compose-over-border_0_1,Natural_current-color-scheme_0_1,Natural_hint-stretch-borders_0_1,Natural_hint-left-margin_0_1,Natural_slider-hint-stretch-borders_0_1,Natural__0_1,Natural_hint-compose-over-border_0_1
+invalidElements=Natural_hint-right-margin_0_1,Natural_background-horizontal-center_0_1,Natural_sunken-slider-hint-right-margin_0_1,Natural_top_0_1,Natural_current-color-scheme_0_1,Natural__0_1,Natural_arrow-up_0_1,Natural_center_0_1,Natural_slider-hint-stretch-borders_0_1,Natural_slider-hint-no-border-padding_0_1,Natural_hint-left-margin_0_1,Natural_left_0_1,Natural_hint-apply-color-scheme_0_1,Natural_slider-hint-right-margin_0_1,Natural_sunken-slider-overlay_0_1,Natural_slider--center_0_1,Natural_sunken-slider-hint-compose-over-border_0_1,Natural_hint-compose-over-border_0_1,Natural_sunken-slider-hint-bottom-margin_0_1,Natural_hint-top-margin_0_1,Natural_slider-hint-compose-over-border_0_1,Natural_right_0_1,Natural_slider-hint-top-margin_0_1,Natural_slider-overlay_0_1,Natural_sunken-slider-hint-stretch-borders_0_1,Natural_overlay_0_1,Natural_background-vertical-center_0_1,Natural_hint-bottom-margin_0_1,Natural_sunken-slider-hint-no-border-padding_0_1,Natural_slider-hint-bottom-margin_0_1,Natural_sunken-slider-hint-top-margin_0_1,Natural_slider-hint-left-margin_0_1,Natural_bottom_0_1,Natural_hint-no-border-padding_0_1,Natural_hint-stretch-borders_0_1,Natural_sunken-slider-hint-left-margin_0_1
 
 [/usr/share/plasma/desktoptheme/breath/widgets/scrollwidget.svgz]
 Natural_border-bottom_0_1Size=19.23483494,97.53032999999999,100,1.9996679999999856
@@ -863,7 +884,7 @@ Natural_hint-tile-center_0_1Size=33,2.8560999999999694,3,3
 Natural_horizontal-slider-handle_0_1Size=27,54.85609999999997,24,24
 Natural_horizontal-slider-shadow_0_1Size=95.13149,0,24,24
 _Natural_1Size=0,0,119,82
-invalidElements=Natural_groove-hint-right-margin_0_1,Natural_groove-hint-left-margin_0_1,Natural_hint-handle-size_0_1,Natural_groove-hint-compose-over-border_0_1,Natural_top_0_1,Natural_groove-highlight--center_0_1,Natural_hint-no-border-padding_0_1,Natural_groove-highlight-hint-no-border-padding_0_1,Natural_groove-highlight-hint-stretch-borders_0_1,Natural_hover_0_1,Natural_hint-bottom-margin_0_1,Natural_groove-highlight-hint-right-margin_0_1,Natural_groove-highlight-overlay_0_1,Natural_groove-highlight-hint-bottom-margin_0_1,Natural_groove-highlight-hint-top-margin_0_1,Natural_bottom_0_1,Natural_hint-apply-color-scheme_0_1,Natural_groove-hint-no-border-padding_0_1,Natural_right_0_1,Natural_hint-right-margin_0_1,Natural_left_0_1,Natural_hint-top-margin_0_1,Natural_groove-overlay_0_1,Natural_groove-hint-stretch-borders_0_1,Natural_current-color-scheme_0_1,Natural_hint-stretch-borders_0_1,Natural_groove-hint-bottom-margin_0_1,Natural_groove-highlight-hint-left-margin_0_1,Natural_hint-left-margin_0_1,Natural_-center_0_1,Natural_groove-highlight-hint-compose-over-border_0_1,Natural_groove--center_0_1,Natural_groove-hint-top-margin_0_1,Natural__0_1,Natural_hint-compose-over-border_0_1
+invalidElements=Natural_hint-right-margin_0_1,Natural_top_0_1,Natural_groove-hint-no-border-padding_0_1,Natural_current-color-scheme_0_1,Natural_-center_0_1,Natural__0_1,Natural_groove-highlight-hint-bottom-margin_0_1,Natural_groove-hint-stretch-borders_0_1,Natural_groove-hint-right-margin_0_1,Natural_groove-highlight-hint-compose-over-border_0_1,Natural_hint-left-margin_0_1,Natural_left_0_1,Natural_groove-highlight-hint-no-border-padding_0_1,Natural_hint-apply-color-scheme_0_1,Natural_groove-highlight-overlay_0_1,Natural_hover_0_1,Natural_groove-highlight--center_0_1,Natural_hint-compose-over-border_0_1,Natural_groove--center_0_1,Natural_groove-hint-compose-over-border_0_1,Natural_hint-top-margin_0_1,Natural_groove-highlight-hint-stretch-borders_0_1,Natural_groove-hint-left-margin_0_1,Natural_right_0_1,Natural_groove-highlight-hint-top-margin_0_1,Natural_groove-overlay_0_1,Natural_hint-bottom-margin_0_1,Natural_groove-highlight-hint-right-margin_0_1,Natural_groove-highlight-hint-left-margin_0_1,Natural_groove-hint-top-margin_0_1,Natural_groove-hint-bottom-margin_0_1,Natural_bottom_0_1,Natural_hint-handle-size_0_1,Natural_hint-no-border-padding_0_1,Natural_hint-stretch-borders_0_1
 
 [/usr/share/plasma/desktoptheme/breath/widgets/tabbar.svgz]
 Natural_hint-tile-center_0_1Size=-68.36288000000002,111.12072999999998,45,45
@@ -903,7 +924,7 @@ Natural_west-active-tab-top_0_1Size=5,38,15,5
 Natural_west-active-tab-topleft_0_1Size=0,38,5,5
 Natural_west-active-tab-topright_0_1Size=20.000009999999975,37.999993399999994,5,4.99999994999996
 _Natural_1Size=0,0,99,101
-invalidElements=Natural_north-active-tab-hint-compose-over-border_0_1,Natural_north-active-tab-hint-right-margin_0_1,Natural_south-active-tab-hint-compose-over-border_0_1,Natural_hint-no-border-padding_0_1,Natural_west-active-tab-overlay_0_1,Natural_west-active-tab-hint-no-border-padding_0_1,Natural_north-active-tab-overlay_0_1,Natural_north-active-tab-hint-no-border-padding_0_1,Natural_west-active-tab--center_0_1,Natural_north-active-tab-hint-left-margin_0_1,Natural_hint-apply-color-scheme_0_1,Natural_north-active-tab--center_0_1,Natural_current-color-scheme_0_1,Natural_hint-stretch-borders_0_1,Natural_north-active-tab-hint-top-margin_0_1,Natural_north-active-tab-hint-stretch-borders_0_1,Natural_north-active-tab-hint-bottom-margin_0_1,Natural_south-active-tab-hint-no-border-padding_0_1,Natural_south-active-tab-overlay_0_1,Natural_west-active-tab-hint-stretch-borders_0_1,Natural_west-active-tab-hint-compose-over-border_0_1,Natural_south-active-tab--center_0_1,Natural__0_1,Natural_south-active-tab-hint-stretch-borders_0_1
+invalidElements=Natural_north-active-tab-hint-left-margin_0_1,Natural_north-active-tab-hint-stretch-borders_0_1,Natural_south-active-tab--center_0_1,Natural_south-active-tab-overlay_0_1,Natural_current-color-scheme_0_1,Natural__0_1,Natural_north-active-tab-hint-no-border-padding_0_1,Natural_west-active-tab-overlay_0_1,Natural_south-active-tab-hint-compose-over-border_0_1,Natural_hint-apply-color-scheme_0_1,Natural_north-active-tab--center_0_1,Natural_west-active-tab-hint-compose-over-border_0_1,Natural_north-active-tab-hint-compose-over-border_0_1,Natural_north-active-tab-overlay_0_1,Natural_north-active-tab-hint-top-margin_0_1,Natural_south-active-tab-hint-no-border-padding_0_1,Natural_north-active-tab-hint-right-margin_0_1,Natural_north-active-tab-hint-bottom-margin_0_1,Natural_south-active-tab-hint-stretch-borders_0_1,Natural_west-active-tab--center_0_1,Natural_west-active-tab-hint-no-border-padding_0_1,Natural_hint-no-border-padding_0_1,Natural_west-active-tab-hint-stretch-borders_0_1,Natural_hint-stretch-borders_0_1
 
 [/usr/share/plasma/desktoptheme/breath/widgets/tasks.svgz]
 Natural_focus-bottom_0_1Size=52,9,6,3
@@ -945,6 +966,15 @@ Natural_normal-right_0_1Size=10,3,4,6
 Natural_normal-top_0_1Size=4,0,6,3
 Natural_normal-topleft_0_1Size=0,0,4,3
 Natural_normal-topright_0_1Size=10,0,4,3
+Natural_west-attention-bottom_0_1Size=20,67,6,4
+Natural_west-attention-bottomleft_0_1Size=17,67,3,4
+Natural_west-attention-bottomright_0_1Size=26,67,3,4
+Natural_west-attention-center_0_1Size=20,61,6,6
+Natural_west-attention-left_0_1Size=17,61,3,6
+Natural_west-attention-right_0_1Size=26,61,3,6
+Natural_west-attention-top_0_1Size=20,57,6,4
+Natural_west-attention-topleft_0_1Size=17,57,3,4
+Natural_west-attention-topright_0_1Size=26,57,3,4
 Natural_west-focus-bottom_0_1Size=20,89,6,4
 Natural_west-focus-bottomleft_0_1Size=17,89,3,4
 Natural_west-focus-bottomright_0_1Size=26,89,3,4
@@ -982,7 +1012,7 @@ Natural_west-normal-top_0_1Size=20,35,6,4
 Natural_west-normal-topleft_0_1Size=17,35,3,4
 Natural_west-normal-topright_0_1Size=26,35,3,4
 _Natural_1Size=0,0,62,28
-invalidElements=Natural_west-minimized-hint-right-margin_0_1,Natural_west--center_0_1,Natural_west-normal-hint-top-margin_0_1,Natural_west-minimized-hint-compose-over-border_0_1,Natural_west-focus-hint-top-margin_0_1,Natural_west-normal--center_0_1,Natural_minimized-hint-compose-over-border_0_1,Natural_west-hover-hint-left-margin_0_1,Natural_left_0_1,Natural_hover-hint-bottom-margin_0_1,Natural_south--center_0_1,Natural_bottom_0_1,Natural_minimized-hint-no-border-padding_0_1,Natural_normal--center_0_1,Natural_hint-tile-center_0_1,Natural_minimized-hint-top-margin_0_1,Natural_focus-hint-top-margin_0_1,Natural_focus--center_0_1,Natural_focus-hint-right-margin_0_1,Natural_normal-hint-left-margin_0_1,Natural_west-focus-hint-no-border-padding_0_1,Natural_south-focus-center_0_1,Natural_west-focus--center_0_1,Natural_hover-hint-top-margin_0_1,Natural_normal-overlay_0_1,Natural_south-normal-center_0_1,Natural_hover-hint-compose-over-border_0_1,Natural_hint-top-margin_0_1,Natural_west-focus-hint-tile-center_0_1,Natural_west-normal-overlay_0_1,Natural_normal-hint-right-margin_0_1,Natural_normal-hint-top-margin_0_1,Natural_center_0_1,Natural_focus-hint-no-border-padding_0_1,Natural_right_0_1,Natural_normal-hint-compose-over-border_0_1,Natural_hover-hint-tile-center_0_1,Natural_current-color-scheme_0_1,Natural_south-minimized-center_0_1,Natural_west-minimized-hint-tile-center_0_1,Natural_west-hover-hint-top-margin_0_1,Natural_west-hover-hint-compose-over-border_0_1,Natural_west-normal-hint-no-border-padding_0_1,Natural_minimized-overlay_0_1,Natural_west-hover-overlay_0_1,Natural_hint-bottom-margin_0_1,Natural_west-center_0_1,Natural_focus-hint-left-margin_0_1,Natural_minimized--center_0_1,Natural_hint-left-margin_0_1,Natural_west-minimized-hint-no-border-padding_0_1,Natural_west-focus-hint-compose-over-border_0_1,Natural_hint-right-margin_0_1,Natural_west-hover-hint-tile-center_0_1,Natural_west-normal-hint-compose-over-border_0_1,Natural_normal-hint-bottom-margin_0_1,Natural_hint-apply-color-scheme_0_1,Natural_west-normal-hint-right-margin_0_1,Natural__0_1,Natural_hint-compose-over-border_0_1,Natural_west-hover-hint-bottom-margin_0_1,Natural_west-focus-overlay_0_1,Natural_focus-overlay_0_1,Natural_focus-hint-tile-center_0_1,Natural_normal-hint-no-border-padding_0_1,Natural_minimized-hint-tile-center_0_1,Natural_hint-no-border-padding_0_1,Natural_minimized-hint-right-margin_0_1,Natural_west-normal-hint-left-margin_0_1,Natural_west-minimized-hint-left-margin_0_1,Natural_west-hover-hint-no-border-padding_0_1,Natural_-center_0_1,Natural_minimized-hint-left-margin_0_1,Natural_minimized-hint-bottom-margin_0_1,Natural_top_0_1,Natural_west-minimized-overlay_0_1,Natural_south-hover-center_0_1,Natural_west-hover--center_0_1,Natural_focus-hint-bottom-margin_0_1,Natural_focus-hint-compose-over-border_0_1,Natural_west-focus-hint-right-margin_0_1,Natural_west-normal-hint-tile-center_0_1,Natural_west-normal-hint-bottom-margin_0_1,Natural_hover-hint-no-border-padding_0_1,Natural_hover--center_0_1,Natural_normal-hint-tile-center_0_1,Natural_west-minimized-hint-bottom-margin_0_1,Natural_west-hover-hint-right-margin_0_1,Natural_west-minimized-hint-top-margin_0_1,Natural_west-focus-hint-left-margin_0_1,Natural_overlay_0_1,Natural_west-focus-hint-bottom-margin_0_1,Natural_hover-hint-right-margin_0_1,Natural_hover-overlay_0_1,Natural_hover-hint-left-margin_0_1,Natural_west-minimized--center_0_1
+invalidElements=Natural_west-minimized-hint-no-border-padding_0_1,Natural_minimized-hint-tile-center_0_1,Natural_hint-top-margin_0_1,Natural_west-normal-hint-right-margin_0_1,Natural_hover--center_0_1,Natural_west-minimized-hint-left-margin_0_1,Natural_west-attention-hint-top-margin_0_1,Natural_west-normal-hint-bottom-margin_0_1,Natural_hint-right-margin_0_1,Natural_hint-apply-color-scheme_0_1,Natural_west-hover-hint-right-margin_0_1,Natural_hover-hint-right-margin_0_1,Natural_minimized-hint-left-margin_0_1,Natural_west-focus--center_0_1,Natural_hint-tile-center_0_1,Natural_west-attention-overlay_0_1,Natural_west-focus-hint-compose-over-border_0_1,Natural_hover-hint-tile-center_0_1,Natural_west-normal-hint-compose-over-border_0_1,Natural_west-attention-hint-right-margin_0_1,Natural_hint-left-margin_0_1,Natural_west-hover-hint-tile-center_0_1,Natural_west-minimized-overlay_0_1,Natural_minimized-overlay_0_1,Natural_minimized-hint-compose-over-border_0_1,Natural_west-minimized-hint-top-margin_0_1,Natural_hover-hint-bottom-margin_0_1,Natural_hover-overlay_0_1,Natural_normal-hint-compose-over-border_0_1,Natural_west-attention-hint-compose-over-border_0_1,Natural_hint-no-border-padding_0_1,Natural_bottom_0_1,Natural_focus-hint-right-margin_0_1,Natural_west-normal-hint-no-border-padding_0_1,Natural_west-normal--center_0_1,Natural_west-focus-hint-bottom-margin_0_1,Natural_west-minimized--center_0_1,Natural_hover-hint-top-margin_0_1,Natural_hint-bottom-margin_0_1,Natural_focus-hint-tile-center_0_1,Natural_south-minimized-center_0_1,Natural_focus-hint-compose-over-border_0_1,Natural_south-focus-center_0_1,Natural_west-minimized-hint-compose-over-border_0_1,Natural_focus-hint-top-margin_0_1,Natural_-center_0_1,Natural_hover-hint-left-margin_0_1,Natural_focus--center_0_1,Natural_west-minimized-hint-bottom-margin_0_1,Natural_west-focus-overlay_0_1,Natural_overlay_0_1,Natural_west-focus-hint-left-margin_0_1,Natural_west-focus-hint-right-margin_0_1,Natural_west-hover-overlay_0_1,Natural_focus-overlay_0_1,Natural_right_0_1,Natural_minimized-hint-right-margin_0_1,Natural_west-attention-hint-left-margin_0_1,Natural_current-color-scheme_0_1,Natural_normal-hint-no-border-padding_0_1,Natural_west-focus-hint-no-border-padding_0_1,Natural_normal-hint-bottom-margin_0_1,Natural_minimized-hint-bottom-margin_0_1,Natural_hover-hint-compose-over-border_0_1,Natural_west-normal-hint-left-margin_0_1,Natural_normal-hint-left-margin_0_1,Natural_west-hover-hint-compose-over-border_0_1,Natural_normal-hint-top-margin_0_1,Natural_west-hover-hint-top-margin_0_1,Natural_west-hover-hint-bottom-margin_0_1,Natural_top_0_1,Natural_focus-hint-left-margin_0_1,Natural_west-hover-hint-no-border-padding_0_1,Natural_minimized--center_0_1,Natural_south--center_0_1,Natural_west--center_0_1,Natural_west-minimized-hint-right-margin_0_1,Natural_focus-hint-bottom-margin_0_1,Natural_south-normal-center_0_1,Natural_normal-hint-right-margin_0_1,Natural_west-attention-hint-bottom-margin_0_1,Natural_south-hover-center_0_1,Natural_west-focus-hint-tile-center_0_1,Natural_west-focus-hint-top-margin_0_1,Natural_west-center_0_1,Natural_west-attention-hint-tile-center_0_1,Natural_minimized-hint-top-margin_0_1,Natural_normal--center_0_1,Natural_west-normal-hint-top-margin_0_1,Natural_west-normal-overlay_0_1,Natural_west-attention-hint-no-border-padding_0_1,Natural_west-minimized-hint-tile-center_0_1,Natural_minimized-hint-no-border-padding_0_1,Natural_hover-hint-no-border-padding_0_1,Natural_west-hover-hint-left-margin_0_1,Natural_left_0_1,Natural_normal-hint-tile-center_0_1,Natural__0_1,Natural_west-hover--center_0_1,Natural_normal-overlay_0_1,Natural_center_0_1,Natural_focus-hint-no-border-padding_0_1,Natural_hint-compose-over-border_0_1,Natural_west-normal-hint-tile-center_0_1
 
 [/usr/share/plasma/desktoptheme/breath/widgets/tooltip.svgz]
 Natural_bottom_0_1Size=81.00003385958007,51,39.99999960000014,5
@@ -1009,7 +1039,7 @@ Natural_top_0_1Size=81.00003385958007,10,39.99999960000014,5
 Natural_topleft_0_1Size=76,10,5,5
 Natural_topright_0_1Size=121,10,5,5
 _Natural_1Size=0,0,218,66
-invalidElements=Natural_-center_0_1,Natural_mask-hint-right-margin_0_1,Natural_mask-hint-left-margin_0_1,Natural_current-color-scheme_0_1,Natural_hint-compose-over-border_0_1,Natural_hint-apply-color-scheme_0_1,Natural_mask-hint-top-margin_0_1,Natural_overlay_0_1,Natural_mask-hint-stretch-borders_0_1,Natural_mask-hint-no-border-padding_0_1,Natural_mask-hint-compose-over-border_0_1,Natural__0_1,Natural_mask-hint-bottom-margin_0_1,Natural_hint-stretch-borders_0_1,Natural_hint-no-border-padding_0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural_overlay_0_1,Natural_mask-hint-compose-over-border_0_1,Natural_mask-hint-no-border-padding_0_1,Natural_mask-hint-left-margin_0_1,Natural_hint-apply-color-scheme_0_1,Natural_hint-no-border-padding_0_1,Natural_-center_0_1,Natural_mask-hint-stretch-borders_0_1,Natural_mask-hint-right-margin_0_1,Natural__0_1,Natural_mask-hint-top-margin_0_1,Natural_mask-hint-bottom-margin_0_1,Natural_hint-compose-over-border_0_1,Natural_hint-stretch-borders_0_1
 
 [/usr/share/plasma/desktoptheme/breath/widgets/translucentbackground.svgz]
 Natural_bottom_0_1Size=81.00003385958007,51,39.99999960000014,5
@@ -1027,7 +1057,7 @@ Natural_top_0_1Size=81.00003385958007,10,39.99999960000014,5
 Natural_topleft_0_1Size=76,10,5,5
 Natural_topright_0_1Size=121,10,5,5
 _Natural_1Size=0,0,218,66
-invalidElements=Natural_-center_0_1,Natural_current-color-scheme_0_1,Natural_hint-compose-over-border_0_1,Natural_hint-apply-color-scheme_0_1,Natural_overlay_0_1,Natural__0_1,Natural_hint-stretch-borders_0_1,Natural_hint-no-border-padding_0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural_overlay_0_1,Natural_hint-apply-color-scheme_0_1,Natural_hint-no-border-padding_0_1,Natural_-center_0_1,Natural__0_1,Natural_hint-compose-over-border_0_1,Natural_hint-stretch-borders_0_1
 
 [/usr/share/plasma/desktoptheme/breath/widgets/viewitem.svgz]
 Natural_hint-stretch-borders_0_1Size=-32.00001,27.999990000000025,5.0000067,4.9999909
@@ -1041,7 +1071,7 @@ Natural_hover-top_0_1Size=2.9999999999999716,9.999999974752427e-06,15,3
 Natural_hover-topleft_0_1Size=0,0,3,3.000000517989065
 Natural_hover-topright_0_1Size=18,0,3,3.000000517989065
 _Natural_1Size=0,0,21,99
-invalidElements=Natural_hover-overlay_0_1,Natural_hover-hint-compose-over-border_0_1,Natural_hover-hint-right-margin_0_1,Natural_hover-hint-top-margin_0_1,Natural_top_0_1,Natural_hint-no-border-padding_0_1,Natural_hint-tile-center_0_1,Natural_hint-bottom-margin_0_1,Natural_hover-hint-tile-center_0_1,Natural_bottom_0_1,Natural_hint-apply-color-scheme_0_1,Natural_right_0_1,Natural_hint-right-margin_0_1,Natural_left_0_1,Natural_hint-top-margin_0_1,Natural_current-color-scheme_0_1,Natural_hover--center_0_1,Natural_hover-hint-left-margin_0_1,Natural_hint-left-margin_0_1,Natural_hover-hint-bottom-margin_0_1,Natural_-center_0_1,Natural_hover-hint-no-border-padding_0_1,Natural__0_1,Natural_hint-compose-over-border_0_1
+invalidElements=Natural_hint-right-margin_0_1,Natural_top_0_1,Natural_hover-hint-right-margin_0_1,Natural_current-color-scheme_0_1,Natural_-center_0_1,Natural_hover-hint-bottom-margin_0_1,Natural__0_1,Natural_hover-hint-left-margin_0_1,Natural_hover-hint-tile-center_0_1,Natural_hint-left-margin_0_1,Natural_left_0_1,Natural_hint-apply-color-scheme_0_1,Natural_hint-compose-over-border_0_1,Natural_hover-hint-compose-over-border_0_1,Natural_hint-top-margin_0_1,Natural_right_0_1,Natural_hover-overlay_0_1,Natural_hover--center_0_1,Natural_hint-bottom-margin_0_1,Natural_hover-hint-no-border-padding_0_1,Natural_hover-hint-top-margin_0_1,Natural_bottom_0_1,Natural_hint-tile-center_0_1,Natural_hint-no-border-padding_0_1
 
 [/usr/share/plasma/desktoptheme/default/icons/applications.svgz]
 32_32_applications-other_0_1Size=13.03703580952121,1.8391654692528903e-05,18.96296030799205,31.999996479970918
@@ -1069,7 +1099,7 @@ Natural_fcitx-shuangpin_0_1Size=44,8e-06,22,22
 Natural_fcitx-wbpy_0_1Size=176,8e-06,22,22
 Natural_fcitx-wubi_0_1Size=154,8e-06,22,22
 _Natural_1Size=0,0,242,154
-invalidElements=32_32_current-color-scheme_0_1,32_32_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,22_22_current-color-scheme_0_1,32_32__0_1,22_22_hint-apply-color-scheme_0_1,Natural__0_1,22_22__0_1
+invalidElements=32_32_hint-apply-color-scheme_0_1,22_22_current-color-scheme_0_1,22_22__0_1,32_32_current-color-scheme_0_1,Natural_current-color-scheme_0_1,22_22_hint-apply-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,32_32__0_1,Natural__0_1
 
 [/usr/share/plasma/desktoptheme/default/icons/input.svgz]
 22_22_22-22-input-caps-on_0_1Size=5.0285714285714285,14.6093738828125,6.914285714285715,1.890625
@@ -1091,7 +1121,7 @@ Natural_input-caps-on_0_1Size=38,160.000003,32,32
 Natural_input-keyboard-brightness_0_1Size=38,96.00000000000006,32,32
 Natural_input-keyboard_0_1Size=38,-5.6171875e-06,32.000001,32.000001
 _Natural_1Size=0,0,70,256
-invalidElements=32_32_current-color-scheme_0_1,32_32_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,22_22_current-color-scheme_0_1,32_32__0_1,22_22_hint-apply-color-scheme_0_1,Natural__0_1
+invalidElements=Natural_current-color-scheme_0_1,22_22_hint-apply-color-scheme_0_1,32_32_current-color-scheme_0_1,22_22_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,32_32__0_1,32_32_hint-apply-color-scheme_0_1,Natural__0_1
 
 [Global]
 currentIconThemePath=/usr/share/icons/breath/

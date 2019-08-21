@@ -365,6 +365,7 @@ cracklib-format
 cracklib-packer
 cracklib-unpacker
 crda
+create_ap
 create-cracklib-dict
 createfp
 createPYMB

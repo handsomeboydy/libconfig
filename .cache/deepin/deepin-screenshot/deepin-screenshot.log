@@ -88,3 +88,26 @@
 2019-08-21, 18:52:45.889 [Debug  ] [                                                         0] ~~~~~~ QSize(276, 28)
 2019-08-21, 18:52:46.614 [Debug  ] [                                                         0] ConfigSettings: "save" "save_quality" QVariant(int, 100)
 2019-08-21, 18:52:46.617 [Warning] [                                                         0] QStackedWidget::setCurrentWidget: widget 0x0 not contained in stack
+2019-08-21, 14:32:39.289 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2019-08-21, 14:32:39.290 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2019-08-21, 14:32:39.290 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2019-08-21, 14:32:39.290 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2019-08-21, 14:32:39.325 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2019-08-21, 14:32:39.325 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2019-08-21, 14:32:39.325 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2019-08-21, 14:32:39.326 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2019-08-21, 14:32:39.329 [Debug  ] [                                                         0] m_keyboardGrabbed: true
+2019-08-21, 14:32:39.558 [Debug  ] [                                                         0] ConfigSettings: "effect" "is_blur" QVariant(bool, false)
+2019-08-21, 14:32:39.742 [Debug  ] [                                                         0] ConfigSettings: "effect" "is_mosaic" QVariant(bool, false)
+2019-08-21, 14:32:39.742 [Debug  ] [                                                         0] Setting file: "/home/alex/.config/deepin/deepin-screenshot.conf"
+2019-08-21, 14:32:39.743 [Debug  ] [                                                         0] ~~~~~~ QSize(276, 28)
+2019-08-21, 14:32:39.943 [Debug  ] [                                                         0] ConfigSettings: "save" "save_quality" QVariant(int, 100)
+2019-08-21, 14:32:39.946 [Warning] [                                                         0] QStackedWidget::setCurrentWidget: widget 0x0 not contained in stack
+2019-08-21, 14:32:45.699 [Debug  ] [                                                         0] MainWindow mouseReleaseEvent
+2019-08-21, 14:32:50.981 [Debug  ] [                                                         0] release event !!!
+2019-08-21, 14:32:50.982 [Debug  ] [                                                         0] keyboardGrabbed: true
+2019-08-21, 14:32:51.084 [Debug  ] [                                                         0] shotCurrentImg shotFullScreen
+2019-08-21, 14:32:51.093 [Debug  ] [                                                         0] release event !!!
+2019-08-21, 14:32:51.094 [Debug  ] [                                                         0] keyboardGrabbed: true
+2019-08-21, 14:32:58.968 [Debug  ] [                                                         0] ConfigSettings: "common" "default_savepath" QVariant(QString, "/home/alex/图片/screenshot")
+2019-08-21, 14:32:59.174 [Debug  ] [                                                         0] saveFilePath: "/home/alex/图片/screenshot/深度截图_选择区域_20190821143251.png"

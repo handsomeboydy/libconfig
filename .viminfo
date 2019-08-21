@@ -15,7 +15,9 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1566380991,,"wq"
+|2,0,1566374041,,"wq"
+:q
+|2,0,1566367188,,"q"
 :set nu
 |2,0,1566380798,,"set nu"
 :/new
@@ -41,230 +43,233 @@
 	        status_command i3status
 	}
 |3,1,1,0,3,0,1566335739,"bar {","        status_command i3status","}"
+"q	CHAR	0
+	��aWWWWWWW��a��a
+|3,0,26,0,1,0,1566369637,"��aWWWWWWW��a��a"
 
 # 文件标记:
 '0  111  26  ~/.config/alacritty/alacritty.yml
 |4,48,111,26,1566380991,"~/.config/alacritty/alacritty.yml"
-'1  149  0  ~/.config/i3/config
-|4,49,149,0,1566336958,"~/.config/i3/config"
-'2  177  12  ~/.config/i3/config
-|4,50,177,12,1566335934,"~/.config/i3/config"
-'3  177  12  ~/.config/i3/config
-|4,51,177,12,1566335934,"~/.config/i3/config"
-'4  14  16  ~/.config/i3/config
-|4,52,14,16,1566335708,"~/.config/i3/config"
-'5  12  16  ~/.config/i3/config
-|4,53,12,16,1566335708,"~/.config/i3/config"
-'6  14  16  ~/.config/i3/config
-|4,54,14,16,1566335708,"~/.config/i3/config"
-'7  12  16  ~/.config/i3/config
-|4,55,12,16,1566335708,"~/.config/i3/config"
-'8  123  28  ~/.config/i3/config
-|4,56,123,28,1566334904,"~/.config/i3/config"
-'9  122  28  ~/.config/i3/config
-|4,57,122,28,1566334904,"~/.config/i3/config"
+'1  743  25  ~/.config/ranger/rc.conf
+|4,49,743,25,1566374041,"~/.config/ranger/rc.conf"
+'2  111  26  ~/.config/alacritty/alacritty.yml
+|4,50,111,26,1566380991,"~/.config/alacritty/alacritty.yml"
+'3  111  26  ~/.config/alacritty/alacritty.yml
+|4,51,111,26,1566380991,"~/.config/alacritty/alacritty.yml"
+'4  111  26  ~/.config/alacritty/alacritty.yml
+|4,52,111,26,1566380991,"~/.config/alacritty/alacritty.yml"
+'5  111  26  ~/.config/alacritty/alacritty.yml
+|4,53,111,26,1566380991,"~/.config/alacritty/alacritty.yml"
+'6  55  22  ~/.config/ranger/rc.conf
+|4,54,55,22,1566373146,"~/.config/ranger/rc.conf"
+'7  55  22  ~/.config/ranger/rc.conf
+|4,55,55,22,1566373146,"~/.config/ranger/rc.conf"
+'8  111  26  ~/.config/alacritty/alacritty.yml
+|4,56,111,26,1566380991,"~/.config/alacritty/alacritty.yml"
+'9  111  26  ~/.config/alacritty/alacritty.yml
+|4,57,111,26,1566380991,"~/.config/alacritty/alacritty.yml"
 
 # 跳转列表 (从新到旧):
 -'  111  26  ~/.config/alacritty/alacritty.yml
 |4,39,111,26,1566380991,"~/.config/alacritty/alacritty.yml"
 -'  282  0  ~/.config/alacritty/alacritty.yml
 |4,39,282,0,1566380751,"~/.config/alacritty/alacritty.yml"
+-'  111  26  ~/.config/alacritty/alacritty.yml
+|4,39,111,26,1566380991,"~/.config/alacritty/alacritty.yml"
+-'  282  0  ~/.config/alacritty/alacritty.yml
+|4,39,282,0,1566380751,"~/.config/alacritty/alacritty.yml"
+-'  111  26  ~/.config/alacritty/alacritty.yml
+|4,39,111,26,1566380991,"~/.config/alacritty/alacritty.yml"
+-'  111  26  ~/.config/alacritty/alacritty.yml
+|4,39,111,26,1566380991,"~/.config/alacritty/alacritty.yml"
+-'  282  0  ~/.config/alacritty/alacritty.yml
+|4,39,282,0,1566380751,"~/.config/alacritty/alacritty.yml"
+-'  282  0  ~/.config/alacritty/alacritty.yml
+|4,39,282,0,1566380751,"~/.config/alacritty/alacritty.yml"
+-'  743  25  ~/.config/ranger/rc.conf
+|4,39,743,25,1566374041,"~/.config/ranger/rc.conf"
+-'  55  22  ~/.config/ranger/rc.conf
+|4,39,55,22,1566373518,"~/.config/ranger/rc.conf"
+-'  111  26  ~/.config/alacritty/alacritty.yml
+|4,39,111,26,1566380991,"~/.config/alacritty/alacritty.yml"
+-'  111  26  ~/.config/alacritty/alacritty.yml
+|4,39,111,26,1566380991,"~/.config/alacritty/alacritty.yml"
+-'  111  26  ~/.config/alacritty/alacritty.yml
+|4,39,111,26,1566380991,"~/.config/alacritty/alacritty.yml"
+-'  111  26  ~/.config/alacritty/alacritty.yml
+|4,39,111,26,1566380991,"~/.config/alacritty/alacritty.yml"
+-'  111  26  ~/.config/alacritty/alacritty.yml
+|4,39,111,26,1566380991,"~/.config/alacritty/alacritty.yml"
+-'  111  26  ~/.config/alacritty/alacritty.yml
+|4,39,111,26,1566380991,"~/.config/alacritty/alacritty.yml"
+-'  111  26  ~/.config/alacritty/alacritty.yml
+|4,39,111,26,1566380991,"~/.config/alacritty/alacritty.yml"
+-'  111  26  ~/.config/alacritty/alacritty.yml
+|4,39,111,26,1566380991,"~/.config/alacritty/alacritty.yml"
+-'  111  26  ~/.config/alacritty/alacritty.yml
+|4,39,111,26,1566380991,"~/.config/alacritty/alacritty.yml"
+-'  111  26  ~/.config/alacritty/alacritty.yml
+|4,39,111,26,1566380991,"~/.config/alacritty/alacritty.yml"
+-'  111  26  ~/.config/alacritty/alacritty.yml
+|4,39,111,26,1566380991,"~/.config/alacritty/alacritty.yml"
+-'  111  26  ~/.config/alacritty/alacritty.yml
+|4,39,111,26,1566380991,"~/.config/alacritty/alacritty.yml"
+-'  111  26  ~/.config/alacritty/alacritty.yml
+|4,39,111,26,1566380991,"~/.config/alacritty/alacritty.yml"
+-'  111  26  ~/.config/alacritty/alacritty.yml
+|4,39,111,26,1566380991,"~/.config/alacritty/alacritty.yml"
+-'  111  26  ~/.config/alacritty/alacritty.yml
+|4,39,111,26,1566380991,"~/.config/alacritty/alacritty.yml"
+-'  111  26  ~/.config/alacritty/alacritty.yml
+|4,39,111,26,1566380991,"~/.config/alacritty/alacritty.yml"
+-'  282  0  ~/.config/alacritty/alacritty.yml
+|4,39,282,0,1566380751,"~/.config/alacritty/alacritty.yml"
+-'  282  0  ~/.config/alacritty/alacritty.yml
+|4,39,282,0,1566380751,"~/.config/alacritty/alacritty.yml"
+-'  282  0  ~/.config/alacritty/alacritty.yml
+|4,39,282,0,1566380751,"~/.config/alacritty/alacritty.yml"
+-'  282  0  ~/.config/alacritty/alacritty.yml
+|4,39,282,0,1566380751,"~/.config/alacritty/alacritty.yml"
+-'  282  0  ~/.config/alacritty/alacritty.yml
+|4,39,282,0,1566380751,"~/.config/alacritty/alacritty.yml"
+-'  282  0  ~/.config/alacritty/alacritty.yml
+|4,39,282,0,1566380751,"~/.config/alacritty/alacritty.yml"
+-'  282  0  ~/.config/alacritty/alacritty.yml
+|4,39,282,0,1566380751,"~/.config/alacritty/alacritty.yml"
+-'  282  0  ~/.config/alacritty/alacritty.yml
+|4,39,282,0,1566380751,"~/.config/alacritty/alacritty.yml"
+-'  282  0  ~/.config/alacritty/alacritty.yml
+|4,39,282,0,1566380751,"~/.config/alacritty/alacritty.yml"
+-'  282  0  ~/.config/alacritty/alacritty.yml
+|4,39,282,0,1566380751,"~/.config/alacritty/alacritty.yml"
+-'  282  0  ~/.config/alacritty/alacritty.yml
+|4,39,282,0,1566380751,"~/.config/alacritty/alacritty.yml"
+-'  282  0  ~/.config/alacritty/alacritty.yml
+|4,39,282,0,1566380751,"~/.config/alacritty/alacritty.yml"
+-'  282  0  ~/.config/alacritty/alacritty.yml
+|4,39,282,0,1566380751,"~/.config/alacritty/alacritty.yml"
+-'  282  0  ~/.config/alacritty/alacritty.yml
+|4,39,282,0,1566380751,"~/.config/alacritty/alacritty.yml"
+-'  282  0  ~/.config/alacritty/alacritty.yml
+|4,39,282,0,1566380751,"~/.config/alacritty/alacritty.yml"
+-'  282  0  ~/.config/alacritty/alacritty.yml
+|4,39,282,0,1566380751,"~/.config/alacritty/alacritty.yml"
+-'  55  22  ~/.config/ranger/rc.conf
+|4,39,55,22,1566373146,"~/.config/ranger/rc.conf"
+-'  111  22  ~/.config/ranger/rc.conf
+|4,39,111,22,1566372955,"~/.config/ranger/rc.conf"
+-'  111  22  ~/.config/ranger/rc.conf
+|4,39,111,22,1566372955,"~/.config/ranger/rc.conf"
+-'  111  26  ~/.config/alacritty/alacritty.yml
+|4,39,111,26,1566380991,"~/.config/alacritty/alacritty.yml"
+-'  111  26  ~/.config/alacritty/alacritty.yml
+|4,39,111,26,1566380991,"~/.config/alacritty/alacritty.yml"
+-'  111  26  ~/.config/alacritty/alacritty.yml
+|4,39,111,26,1566380991,"~/.config/alacritty/alacritty.yml"
+-'  111  26  ~/.config/alacritty/alacritty.yml
+|4,39,111,26,1566380991,"~/.config/alacritty/alacritty.yml"
+-'  111  26  ~/.config/alacritty/alacritty.yml
+|4,39,111,26,1566380991,"~/.config/alacritty/alacritty.yml"
+-'  111  26  ~/.config/alacritty/alacritty.yml
+|4,39,111,26,1566380991,"~/.config/alacritty/alacritty.yml"
+-'  111  26  ~/.config/alacritty/alacritty.yml
+|4,39,111,26,1566380991,"~/.config/alacritty/alacritty.yml"
+-'  111  26  ~/.config/alacritty/alacritty.yml
+|4,39,111,26,1566380991,"~/.config/alacritty/alacritty.yml"
+-'  282  0  ~/.config/alacritty/alacritty.yml
+|4,39,282,0,1566380751,"~/.config/alacritty/alacritty.yml"
+-'  282  0  ~/.config/alacritty/alacritty.yml
+|4,39,282,0,1566380751,"~/.config/alacritty/alacritty.yml"
+-'  282  0  ~/.config/alacritty/alacritty.yml
+|4,39,282,0,1566380751,"~/.config/alacritty/alacritty.yml"
+-'  282  0  ~/.config/alacritty/alacritty.yml
+|4,39,282,0,1566380751,"~/.config/alacritty/alacritty.yml"
+-'  282  0  ~/.config/alacritty/alacritty.yml
+|4,39,282,0,1566380751,"~/.config/alacritty/alacritty.yml"
+-'  282  0  ~/.config/alacritty/alacritty.yml
+|4,39,282,0,1566380751,"~/.config/alacritty/alacritty.yml"
+-'  282  0  ~/.config/alacritty/alacritty.yml
+|4,39,282,0,1566380751,"~/.config/alacritty/alacritty.yml"
+-'  282  0  ~/.config/alacritty/alacritty.yml
+|4,39,282,0,1566380751,"~/.config/alacritty/alacritty.yml"
+-'  111  22  ~/.config/ranger/rc.conf
+|4,39,111,22,1566369641,"~/.config/ranger/rc.conf"
+-'  1  0  ~/.config/ranger/rc.conf
+|4,39,1,0,1566369539,"~/.config/ranger/rc.conf"
+-'  1  0  ~/.config/ranger/rc.conf
+|4,39,1,0,1566369539,"~/.config/ranger/rc.conf"
+-'  1  0  ~/.config/ranger/rc.conf
+|4,39,1,0,1566369539,"~/.config/ranger/rc.conf"
+-'  111  26  ~/.config/alacritty/alacritty.yml
+|4,39,111,26,1566380991,"~/.config/alacritty/alacritty.yml"
+-'  111  26  ~/.config/alacritty/alacritty.yml
+|4,39,111,26,1566380991,"~/.config/alacritty/alacritty.yml"
+-'  111  26  ~/.config/alacritty/alacritty.yml
+|4,39,111,26,1566380991,"~/.config/alacritty/alacritty.yml"
+-'  111  26  ~/.config/alacritty/alacritty.yml
+|4,39,111,26,1566380991,"~/.config/alacritty/alacritty.yml"
+-'  282  0  ~/.config/alacritty/alacritty.yml
+|4,39,282,0,1566380751,"~/.config/alacritty/alacritty.yml"
+-'  282  0  ~/.config/alacritty/alacritty.yml
+|4,39,282,0,1566380751,"~/.config/alacritty/alacritty.yml"
+-'  282  0  ~/.config/alacritty/alacritty.yml
+|4,39,282,0,1566380751,"~/.config/alacritty/alacritty.yml"
+-'  282  0  ~/.config/alacritty/alacritty.yml
+|4,39,282,0,1566380751,"~/.config/alacritty/alacritty.yml"
 -'  149  0  ~/.config/i3/config
 |4,39,149,0,1566336958,"~/.config/i3/config"
 -'  149  0  ~/.config/i3/config
 |4,39,149,0,1566336958,"~/.config/i3/config"
--'  177  12  ~/.config/i3/config
-|4,39,177,12,1566335957,"~/.config/i3/config"
--'  177  12  ~/.config/i3/config
-|4,39,177,12,1566335957,"~/.config/i3/config"
--'  177  12  ~/.config/i3/config
-|4,39,177,12,1566335934,"~/.config/i3/config"
--'  177  12  ~/.config/i3/config
-|4,39,177,12,1566335934,"~/.config/i3/config"
--'  14  16  ~/.config/i3/config
-|4,39,14,16,1566335723,"~/.config/i3/config"
--'  14  16  ~/.config/i3/config
-|4,39,14,16,1566335723,"~/.config/i3/config"
--'  14  16  ~/.config/i3/config
-|4,39,14,16,1566335723,"~/.config/i3/config"
--'  14  16  ~/.config/i3/config
-|4,39,14,16,1566335723,"~/.config/i3/config"
--'  12  16  ~/.config/i3/config
-|4,39,12,16,1566335708,"~/.config/i3/config"
--'  12  16  ~/.config/i3/config
-|4,39,12,16,1566335708,"~/.config/i3/config"
--'  12  16  ~/.config/i3/config
-|4,39,12,16,1566335708,"~/.config/i3/config"
--'  12  16  ~/.config/i3/config
-|4,39,12,16,1566335708,"~/.config/i3/config"
--'  123  28  ~/.config/i3/config
-|4,39,123,28,1566335641,"~/.config/i3/config"
--'  121  28  ~/.config/i3/config
-|4,39,121,28,1566335641,"~/.config/i3/config"
--'  123  28  ~/.config/i3/config
-|4,39,123,28,1566335641,"~/.config/i3/config"
--'  121  28  ~/.config/i3/config
-|4,39,121,28,1566335641,"~/.config/i3/config"
--'  123  28  ~/.config/i3/config
-|4,39,123,28,1566335641,"~/.config/i3/config"
--'  121  28  ~/.config/i3/config
-|4,39,121,28,1566335641,"~/.config/i3/config"
--'  123  28  ~/.config/i3/config
-|4,39,123,28,1566335641,"~/.config/i3/config"
--'  121  28  ~/.config/i3/config
-|4,39,121,28,1566335641,"~/.config/i3/config"
--'  122  28  ~/.config/i3/config
-|4,39,122,28,1566334904,"~/.config/i3/config"
--'  120  28  ~/.config/i3/config
-|4,39,120,28,1566334904,"~/.config/i3/config"
--'  122  28  ~/.config/i3/config
-|4,39,122,28,1566334904,"~/.config/i3/config"
--'  120  28  ~/.config/i3/config
-|4,39,120,28,1566334904,"~/.config/i3/config"
--'  122  28  ~/.config/i3/config
-|4,39,122,28,1566334904,"~/.config/i3/config"
--'  120  28  ~/.config/i3/config
-|4,39,120,28,1566334904,"~/.config/i3/config"
--'  122  28  ~/.config/i3/config
-|4,39,122,28,1566334904,"~/.config/i3/config"
--'  120  28  ~/.config/i3/config
-|4,39,120,28,1566334904,"~/.config/i3/config"
--'  11  18  ~/.config/i3/config
-|4,39,11,18,1566334559,"~/.config/i3/config"
--'  11  18  ~/.config/i3/config
-|4,39,11,18,1566334559,"~/.config/i3/config"
--'  11  18  ~/.config/i3/config
-|4,39,11,18,1566334559,"~/.config/i3/config"
--'  11  18  ~/.config/i3/config
-|4,39,11,18,1566334559,"~/.config/i3/config"
--'  11  18  ~/.config/i3/config
-|4,39,11,18,1566334559,"~/.config/i3/config"
--'  11  18  ~/.config/i3/config
-|4,39,11,18,1566334559,"~/.config/i3/config"
--'  11  18  ~/.config/i3/config
-|4,39,11,18,1566334559,"~/.config/i3/config"
--'  11  18  ~/.config/i3/config
-|4,39,11,18,1566334559,"~/.config/i3/config"
--'  11  18  ~/.config/i3/config
-|4,39,11,18,1566333878,"~/.config/i3/config"
--'  11  18  ~/.config/i3/config
-|4,39,11,18,1566333878,"~/.config/i3/config"
--'  45  33  ~/.config/i3/config
-|4,39,45,33,1566333791,"~/.config/i3/config"
--'  44  33  ~/.config/i3/config
-|4,39,44,33,1566333791,"~/.config/i3/config"
--'  43  33  ~/.config/i3/config
-|4,39,43,33,1566333791,"~/.config/i3/config"
--'  42  33  ~/.config/i3/config
-|4,39,42,33,1566333791,"~/.config/i3/config"
--'  45  33  ~/.config/i3/config
-|4,39,45,33,1566333791,"~/.config/i3/config"
--'  44  33  ~/.config/i3/config
-|4,39,44,33,1566333791,"~/.config/i3/config"
--'  43  33  ~/.config/i3/config
-|4,39,43,33,1566333791,"~/.config/i3/config"
--'  42  33  ~/.config/i3/config
-|4,39,42,33,1566333791,"~/.config/i3/config"
--'  42  33  ~/.config/i3/config
-|4,39,42,33,1566333791,"~/.config/i3/config"
--'  45  33  ~/.config/i3/config
-|4,39,45,33,1566333791,"~/.config/i3/config"
--'  44  33  ~/.config/i3/config
-|4,39,44,33,1566333791,"~/.config/i3/config"
--'  43  33  ~/.config/i3/config
-|4,39,43,33,1566333791,"~/.config/i3/config"
--'  42  33  ~/.config/i3/config
-|4,39,42,33,1566333791,"~/.config/i3/config"
--'  45  33  ~/.config/i3/config
-|4,39,45,33,1566333791,"~/.config/i3/config"
--'  44  33  ~/.config/i3/config
-|4,39,44,33,1566333791,"~/.config/i3/config"
--'  43  33  ~/.config/i3/config
-|4,39,43,33,1566333791,"~/.config/i3/config"
--'  42  33  ~/.config/i3/config
-|4,39,42,33,1566333791,"~/.config/i3/config"
--'  42  33  ~/.config/i3/config
-|4,39,42,33,1566333791,"~/.config/i3/config"
--'  282  0  ~/.config/alacritty/alacritty.yml
-|4,39,282,0,1566333647,"~/.config/alacritty/alacritty.yml"
--'  282  0  ~/.config/alacritty/alacritty.yml
-|4,39,282,0,1566333647,"~/.config/alacritty/alacritty.yml"
--'  282  0  ~/.config/alacritty/alacritty.yml
-|4,39,282,0,1566333647,"~/.config/alacritty/alacritty.yml"
--'  282  0  ~/.config/alacritty/alacritty.yml
-|4,39,282,0,1566333647,"~/.config/alacritty/alacritty.yml"
--'  282  0  ~/.config/alacritty/alacritty.yml
-|4,39,282,0,1566333647,"~/.config/alacritty/alacritty.yml"
--'  282  0  ~/.config/alacritty/alacritty.yml
-|4,39,282,0,1566333647,"~/.config/alacritty/alacritty.yml"
--'  282  0  ~/.config/alacritty/alacritty.yml
-|4,39,282,0,1566333647,"~/.config/alacritty/alacritty.yml"
--'  282  0  ~/.config/alacritty/alacritty.yml
-|4,39,282,0,1566333647,"~/.config/alacritty/alacritty.yml"
--'  282  0  ~/.config/alacritty/alacritty.yml
-|4,39,282,0,1566333647,"~/.config/alacritty/alacritty.yml"
--'  282  0  ~/.config/alacritty/alacritty.yml
-|4,39,282,0,1566333647,"~/.config/alacritty/alacritty.yml"
--'  282  0  ~/.config/alacritty/alacritty.yml
-|4,39,282,0,1566333647,"~/.config/alacritty/alacritty.yml"
--'  282  0  ~/.config/alacritty/alacritty.yml
-|4,39,282,0,1566333647,"~/.config/alacritty/alacritty.yml"
--'  282  0  ~/.config/alacritty/alacritty.yml
-|4,39,282,0,1566333647,"~/.config/alacritty/alacritty.yml"
--'  282  0  ~/.config/alacritty/alacritty.yml
-|4,39,282,0,1566333647,"~/.config/alacritty/alacritty.yml"
--'  282  0  ~/.config/alacritty/alacritty.yml
-|4,39,282,0,1566333647,"~/.config/alacritty/alacritty.yml"
--'  282  0  ~/.config/alacritty/alacritty.yml
-|4,39,282,0,1566333647,"~/.config/alacritty/alacritty.yml"
--'  282  0  ~/.config/alacritty/alacritty.yml
-|4,39,282,0,1566333647,"~/.config/alacritty/alacritty.yml"
--'  282  0  ~/.config/alacritty/alacritty.yml
-|4,39,282,0,1566333647,"~/.config/alacritty/alacritty.yml"
--'  282  0  ~/.config/alacritty/alacritty.yml
-|4,39,282,0,1566333647,"~/.config/alacritty/alacritty.yml"
--'  282  0  ~/.config/alacritty/alacritty.yml
-|4,39,282,0,1566333647,"~/.config/alacritty/alacritty.yml"
--'  282  0  ~/.config/alacritty/alacritty.yml
-|4,39,282,0,1566333647,"~/.config/alacritty/alacritty.yml"
--'  282  0  ~/.config/alacritty/alacritty.yml
-|4,39,282,0,1566333647,"~/.config/alacritty/alacritty.yml"
--'  282  0  ~/.config/alacritty/alacritty.yml
-|4,39,282,0,1566333647,"~/.config/alacritty/alacritty.yml"
--'  282  0  ~/.config/alacritty/alacritty.yml
-|4,39,282,0,1566333647,"~/.config/alacritty/alacritty.yml"
--'  282  0  ~/.config/alacritty/alacritty.yml
-|4,39,282,0,1566333647,"~/.config/alacritty/alacritty.yml"
--'  282  0  ~/.config/alacritty/alacritty.yml
-|4,39,282,0,1566333647,"~/.config/alacritty/alacritty.yml"
--'  282  0  ~/.config/alacritty/alacritty.yml
-|4,39,282,0,1566333647,"~/.config/alacritty/alacritty.yml"
--'  282  0  ~/.config/alacritty/alacritty.yml
-|4,39,282,0,1566333647,"~/.config/alacritty/alacritty.yml"
--'  282  0  ~/.config/alacritty/alacritty.yml
-|4,39,282,0,1566333647,"~/.config/alacritty/alacritty.yml"
--'  282  0  ~/.config/alacritty/alacritty.yml
-|4,39,282,0,1566333647,"~/.config/alacritty/alacritty.yml"
--'  282  0  ~/.config/alacritty/alacritty.yml
-|4,39,282,0,1566333647,"~/.config/alacritty/alacritty.yml"
--'  282  0  ~/.config/alacritty/alacritty.yml
-|4,39,282,0,1566333647,"~/.config/alacritty/alacritty.yml"
--'  1  0  ~/.config/alacritty/alacritty.yml
-|4,39,1,0,1566333604,"~/.config/alacritty/alacritty.yml"
--'  1  0  ~/.config/alacritty/alacritty.yml
-|4,39,1,0,1566333604,"~/.config/alacritty/alacritty.yml"
--'  1  0  ~/.config/alacritty/alacritty.yml
-|4,39,1,0,1566333604,"~/.config/alacritty/alacritty.yml"
--'  1  0  ~/.config/alacritty/alacritty.yml
-|4,39,1,0,1566333604,"~/.config/alacritty/alacritty.yml"
--'  1  0  ~/.config/alacritty/alacritty.yml
-|4,39,1,0,1566333604,"~/.config/alacritty/alacritty.yml"
--'  1  0  ~/.config/alacritty/alacritty.yml
-|4,39,1,0,1566333604,"~/.config/alacritty/alacritty.yml"
--'  1  0  ~/.config/alacritty/alacritty.yml
-|4,39,1,0,1566333604,"~/.config/alacritty/alacritty.yml"
--'  1  0  ~/.config/alacritty/alacritty.yml
-|4,39,1,0,1566333604,"~/.config/alacritty/alacritty.yml"
+-'  149  0  ~/.config/i3/config
+|4,39,149,0,1566336958,"~/.config/i3/config"
+-'  149  0  ~/.config/i3/config
+|4,39,149,0,1566336958,"~/.config/i3/config"
+-'  149  0  ~/.config/i3/config
+|4,39,149,0,1566336958,"~/.config/i3/config"
+-'  149  0  ~/.config/i3/config
+|4,39,149,0,1566336958,"~/.config/i3/config"
+-'  149  0  ~/.config/i3/config
+|4,39,149,0,1566336958,"~/.config/i3/config"
+-'  149  0  ~/.config/i3/config
+|4,39,149,0,1566336958,"~/.config/i3/config"
+-'  149  0  ~/.config/i3/config
+|4,39,149,0,1566336958,"~/.config/i3/config"
+-'  149  0  ~/.config/i3/config
+|4,39,149,0,1566336958,"~/.config/i3/config"
+-'  149  0  ~/.config/i3/config
+|4,39,149,0,1566336958,"~/.config/i3/config"
+-'  149  0  ~/.config/i3/config
+|4,39,149,0,1566336958,"~/.config/i3/config"
+-'  149  0  ~/.config/i3/config
+|4,39,149,0,1566336958,"~/.config/i3/config"
+-'  149  0  ~/.config/i3/config
+|4,39,149,0,1566336958,"~/.config/i3/config"
+-'  149  0  ~/.config/i3/config
+|4,39,149,0,1566336958,"~/.config/i3/config"
+-'  149  0  ~/.config/i3/config
+|4,39,149,0,1566336958,"~/.config/i3/config"
+-'  149  0  ~/.config/i3/config
+|4,39,149,0,1566336958,"~/.config/i3/config"
+-'  149  0  ~/.config/i3/config
+|4,39,149,0,1566336958,"~/.config/i3/config"
+-'  149  0  ~/.config/i3/config
+|4,39,149,0,1566336958,"~/.config/i3/config"
+-'  149  0  ~/.config/i3/config
+|4,39,149,0,1566336958,"~/.config/i3/config"
+-'  149  0  ~/.config/i3/config
+|4,39,149,0,1566336958,"~/.config/i3/config"
+-'  149  0  ~/.config/i3/config
+|4,39,149,0,1566336958,"~/.config/i3/config"
+-'  149  0  ~/.config/i3/config
+|4,39,149,0,1566336958,"~/.config/i3/config"
+-'  149  0  ~/.config/i3/config
+|4,39,149,0,1566336958,"~/.config/i3/config"
+-'  149  0  ~/.config/i3/config
+|4,39,149,0,1566336958,"~/.config/i3/config"
+-'  149  0  ~/.config/i3/config
+|4,39,149,0,1566336958,"~/.config/i3/config"
+-'  149  0  ~/.config/i3/config
+|4,39,149,0,1566336958,"~/.config/i3/config"
 
 # 文件内的标记历史记录 (从新到旧):
 
@@ -275,6 +280,17 @@
 	.	111	26
 	+	281	22
 	+	111	26
+
+> ~/.config/ranger/rc.conf
+	*	1566374039	0
+	"	743	25
+	^	743	26
+	.	287	25
+	+	71	22
+	+	164	23
+	+	180	20
+	+	193	25
+	+	287	25
 
 > ~/.config/i3/config
 	*	1566336955	0
