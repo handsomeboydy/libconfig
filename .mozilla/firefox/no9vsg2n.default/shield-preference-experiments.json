@@ -1,0 +1,1 @@
+{"hotfix-disable-websockets-over-h2-65-1523978":{"name":"hotfix-disable-websockets-over-h2-65-1523978","branch":"disabled","expired":false,"lastSeen":"2019-08-20T15:45:41.616Z","preferenceName":"network.http.spdy.websockets","preferenceValue":false,"preferenceType":"boolean","previousPreferenceValue":null,"preferenceBranchType":"default","experimentType":"exp"}}

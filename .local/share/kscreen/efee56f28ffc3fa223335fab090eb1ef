@@ -1,0 +1,24 @@
+[
+    {
+        "enabled": true,
+        "id": "37bde3269c9e9b4a3b4d74c78073c616",
+        "metadata": {
+            "fullname": "xrandr-DELL S2318M-HRN7D867116I",
+            "name": "DP1"
+        },
+        "mode": {
+            "refresh": 60,
+            "size": {
+                "height": 1080,
+                "width": 1920
+            }
+        },
+        "pos": {
+            "x": 0,
+            "y": 0
+        },
+        "primary": true,
+        "rotation": 1,
+        "scale": 1
+    }
+]

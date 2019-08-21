@@ -1,0 +1,751 @@
+/bin/sh: xss-lock：未找到命令
+(INFO-735 addon.c:151) 加载附加组件配置文件: fcitx-googlepinyin.conf
+(INFO-735 addon.c:151) 加载附加组件配置文件: fcitx-dbus.conf
+(INFO-735 addon.c:151) 加载附加组件配置文件: fcitx-imselector.conf
+(INFO-735 addon.c:151) 加载附加组件配置文件: fcitx-kimpanel-ui.conf
+(INFO-735 addon.c:151) 加载附加组件配置文件: fcitx-fullwidth-char.conf
+(INFO-735 addon.c:151) 加载附加组件配置文件: fcitx-clipboard.conf
+(INFO-735 addon.c:151) 加载附加组件配置文件: fcitx-table.conf
+(INFO-735 addon.c:151) 加载附加组件配置文件: fcitx-xim.conf
+(INFO-735 addon.c:151) 加载附加组件配置文件: fcitx-remote-module.conf
+(INFO-735 addon.c:151) 加载附加组件配置文件: fcitx-autoeng.conf
+(INFO-735 addon.c:151) 加载附加组件配置文件: fcitx-pinyin-enhance.conf
+(INFO-735 addon.c:151) 加载附加组件配置文件: fcitx-ipcportal.conf
+(INFO-735 addon.c:151) 加载附加组件配置文件: fcitx-pinyin.conf
+(INFO-735 addon.c:151) 加载附加组件配置文件: fcitx-qw.conf
+(INFO-735 addon.c:151) 加载附加组件配置文件: fcitx-freedesktop-notify.conf
+(INFO-735 addon.c:151) 加载附加组件配置文件: fcitx-vk.conf
+(INFO-735 addon.c:151) 加载附加组件配置文件: fcitx-keyboard.conf
+(INFO-735 addon.c:151) 加载附加组件配置文件: fcitx-unicode.conf
+(INFO-735 addon.c:151) 加载附加组件配置文件: fcitx-punc.conf
+(INFO-735 addon.c:151) 加载附加组件配置文件: fcitx-xkb.conf
+(INFO-735 addon.c:151) 加载附加组件配置文件: fcitx-xkbdbus.conf
+(INFO-735 addon.c:151) 加载附加组件配置文件: fcitx-x11.conf
+(INFO-735 addon.c:151) 加载附加组件配置文件: fcitx-quickphrase.conf
+(INFO-735 addon.c:151) 加载附加组件配置文件: fcitx-spell.conf
+(INFO-735 addon.c:151) 加载附加组件配置文件: fcitx-ipc.conf
+(INFO-735 addon.c:151) 加载附加组件配置文件: fcitx-chttrans.conf
+(INFO-735 addon.c:151) 加载附加组件配置文件: fcitx-classic-ui.conf
+(INFO-735 addon.c:151) 加载附加组件配置文件: fcitx-notificationitem.conf
+(ERROR-735 ime.c:432) fcitx-keyboard-in-kan-kagapa already exists
+(ERROR-735 ime.c:432) fcitx-keyboard-in-tel-kagapa already exists
+(ERROR-735 ime.c:432) fcitx-keyboard-cm-mmuock already exists
+
+(variety:730): Gtk-WARNING **: 18:06:55.916: Theme parsing error: gtk.css:68:35: The style property GtkButton:child-displacement-x is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(variety:730): Gtk-WARNING **: 18:06:55.916: Theme parsing error: gtk.css:69:35: The style property GtkButton:child-displacement-y is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(variety:730): Gtk-WARNING **: 18:06:55.916: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+libsecret-Message: 18:06:56.977: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+nm-applet-Message: 18:06:56.978: No keyring secrets found for DESKTOP-NUIAN0H 3607/802-11-wireless-security; asking user.
+libsecret-Message: 18:06:56.982: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+WARNING: 2019-08-21 18:07:02,010: create_menu() 'Variety Slideshow is not installed. This is an optional extension adding pan-and-zoom slideshows to Variety: see https://github.com/peterlevi/variety-slideshow for details'
+ERROR: 2019-08-21 18:07:23,145: server_options_thread() 'Could not fetch Variety serverside options'
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/variety/VarietyWindow.py", line 939, in server_options_thread
+    self.server_options = Util.fetch_json(VarietyWindow.SERVERSIDE_OPTIONS_URL)
+  File "/usr/lib/python3.7/site-packages/variety/Util.py", line 593, in fetch_json
+    return Util.request(url, data).json()
+  File "/usr/lib/python3.7/site-packages/requests/models.py", line 897, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib/python3.7/json/__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.7/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.7/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+libsecret-Message: 18:07:26.110: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+libsecret-Message: 18:07:26.124: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+ERROR: 2019-08-21 18:07:58,198: server_options_thread() 'Could not fetch Variety serverside options'
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/urllib3/connection.py", line 160, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw)
+  File "/usr/lib/python3.7/site-packages/urllib3/util/connection.py", line 80, in create_connection
+    raise err
+  File "/usr/lib/python3.7/site-packages/urllib3/util/connection.py", line 70, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/urllib3/connectionpool.py", line 603, in urlopen
+    chunked=chunked)
+  File "/usr/lib/python3.7/site-packages/urllib3/connectionpool.py", line 355, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/usr/lib/python3.7/http/client.py", line 1244, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.7/http/client.py", line 1290, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.7/http/client.py", line 1239, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.7/http/client.py", line 1026, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.7/http/client.py", line 966, in send
+    self.connect()
+  File "/usr/lib/python3.7/site-packages/urllib3/connection.py", line 183, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3.7/site-packages/urllib3/connection.py", line 165, in _new_conn
+    (self.host, self.timeout))
+urllib3.exceptions.ConnectTimeoutError: (<urllib3.connection.HTTPConnection object at 0x7f5bd75e6790>, 'Connection to tiny.cc timed out. (connect timeout=5)')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/requests/adapters.py", line 449, in send
+    timeout=timeout
+  File "/usr/lib/python3.7/site-packages/urllib3/connectionpool.py", line 641, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/usr/lib/python3.7/site-packages/urllib3/util/retry.py", line 399, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='tiny.cc', port=80): Max retries exceeded with url: /variety-options-063 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f5bd75e6790>, 'Connection to tiny.cc timed out. (connect timeout=5)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/variety/VarietyWindow.py", line 939, in server_options_thread
+    self.server_options = Util.fetch_json(VarietyWindow.SERVERSIDE_OPTIONS_URL)
+  File "/usr/lib/python3.7/site-packages/variety/Util.py", line 593, in fetch_json
+    return Util.request(url, data).json()
+  File "/usr/lib/python3.7/site-packages/variety/Util.py", line 571, in request
+    timeout=timeout)
+  File "/usr/lib/python3.7/site-packages/requests/api.py", line 60, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3.7/site-packages/requests/sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3.7/site-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3.7/site-packages/requests/adapters.py", line 504, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPConnectionPool(host='tiny.cc', port=80): Max retries exceeded with url: /variety-options-063 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f5bd75e6790>, 'Connection to tiny.cc timed out. (connect timeout=5)'))
+ERROR: 2019-08-21 18:08:33,251: server_options_thread() 'Could not fetch Variety serverside options'
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/urllib3/connection.py", line 160, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw)
+  File "/usr/lib/python3.7/site-packages/urllib3/util/connection.py", line 80, in create_connection
+    raise err
+  File "/usr/lib/python3.7/site-packages/urllib3/util/connection.py", line 70, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/urllib3/connectionpool.py", line 603, in urlopen
+    chunked=chunked)
+  File "/usr/lib/python3.7/site-packages/urllib3/connectionpool.py", line 355, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/usr/lib/python3.7/http/client.py", line 1244, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.7/http/client.py", line 1290, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.7/http/client.py", line 1239, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.7/http/client.py", line 1026, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.7/http/client.py", line 966, in send
+    self.connect()
+  File "/usr/lib/python3.7/site-packages/urllib3/connection.py", line 183, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3.7/site-packages/urllib3/connection.py", line 165, in _new_conn
+    (self.host, self.timeout))
+urllib3.exceptions.ConnectTimeoutError: (<urllib3.connection.HTTPConnection object at 0x7f5bd760f650>, 'Connection to tiny.cc timed out. (connect timeout=5)')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/requests/adapters.py", line 449, in send
+    timeout=timeout
+  File "/usr/lib/python3.7/site-packages/urllib3/connectionpool.py", line 641, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/usr/lib/python3.7/site-packages/urllib3/util/retry.py", line 399, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='tiny.cc', port=80): Max retries exceeded with url: /variety-options-063 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f5bd760f650>, 'Connection to tiny.cc timed out. (connect timeout=5)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/variety/VarietyWindow.py", line 939, in server_options_thread
+    self.server_options = Util.fetch_json(VarietyWindow.SERVERSIDE_OPTIONS_URL)
+  File "/usr/lib/python3.7/site-packages/variety/Util.py", line 593, in fetch_json
+    return Util.request(url, data).json()
+  File "/usr/lib/python3.7/site-packages/variety/Util.py", line 571, in request
+    timeout=timeout)
+  File "/usr/lib/python3.7/site-packages/requests/api.py", line 60, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3.7/site-packages/requests/sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3.7/site-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3.7/site-packages/requests/adapters.py", line 504, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPConnectionPool(host='tiny.cc', port=80): Max retries exceeded with url: /variety-options-063 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f5bd760f650>, 'Connection to tiny.cc timed out. (connect timeout=5)'))
+ERROR: 2019-08-21 18:09:08,298: server_options_thread() 'Could not fetch Variety serverside options'
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/urllib3/connection.py", line 160, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw)
+  File "/usr/lib/python3.7/site-packages/urllib3/util/connection.py", line 80, in create_connection
+    raise err
+  File "/usr/lib/python3.7/site-packages/urllib3/util/connection.py", line 70, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/urllib3/connectionpool.py", line 603, in urlopen
+    chunked=chunked)
+  File "/usr/lib/python3.7/site-packages/urllib3/connectionpool.py", line 355, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/usr/lib/python3.7/http/client.py", line 1244, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.7/http/client.py", line 1290, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.7/http/client.py", line 1239, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.7/http/client.py", line 1026, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.7/http/client.py", line 966, in send
+    self.connect()
+  File "/usr/lib/python3.7/site-packages/urllib3/connection.py", line 183, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3.7/site-packages/urllib3/connection.py", line 165, in _new_conn
+    (self.host, self.timeout))
+urllib3.exceptions.ConnectTimeoutError: (<urllib3.connection.HTTPConnection object at 0x7f5bd7609790>, 'Connection to tiny.cc timed out. (connect timeout=5)')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/requests/adapters.py", line 449, in send
+    timeout=timeout
+  File "/usr/lib/python3.7/site-packages/urllib3/connectionpool.py", line 641, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/usr/lib/python3.7/site-packages/urllib3/util/retry.py", line 399, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='tiny.cc', port=80): Max retries exceeded with url: /variety-options-063 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f5bd7609790>, 'Connection to tiny.cc timed out. (connect timeout=5)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/variety/VarietyWindow.py", line 939, in server_options_thread
+    self.server_options = Util.fetch_json(VarietyWindow.SERVERSIDE_OPTIONS_URL)
+  File "/usr/lib/python3.7/site-packages/variety/Util.py", line 593, in fetch_json
+    return Util.request(url, data).json()
+  File "/usr/lib/python3.7/site-packages/variety/Util.py", line 571, in request
+    timeout=timeout)
+  File "/usr/lib/python3.7/site-packages/requests/api.py", line 60, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3.7/site-packages/requests/sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3.7/site-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3.7/site-packages/requests/adapters.py", line 504, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPConnectionPool(host='tiny.cc', port=80): Max retries exceeded with url: /variety-options-063 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f5bd7609790>, 'Connection to tiny.cc timed out. (connect timeout=5)'))
+ERROR: 2019-08-21 18:09:43,346: server_options_thread() 'Could not fetch Variety serverside options'
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/urllib3/connection.py", line 160, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw)
+  File "/usr/lib/python3.7/site-packages/urllib3/util/connection.py", line 80, in create_connection
+    raise err
+  File "/usr/lib/python3.7/site-packages/urllib3/util/connection.py", line 70, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/urllib3/connectionpool.py", line 603, in urlopen
+    chunked=chunked)
+  File "/usr/lib/python3.7/site-packages/urllib3/connectionpool.py", line 355, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/usr/lib/python3.7/http/client.py", line 1244, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.7/http/client.py", line 1290, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.7/http/client.py", line 1239, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.7/http/client.py", line 1026, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.7/http/client.py", line 966, in send
+    self.connect()
+  File "/usr/lib/python3.7/site-packages/urllib3/connection.py", line 183, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3.7/site-packages/urllib3/connection.py", line 165, in _new_conn
+    (self.host, self.timeout))
+urllib3.exceptions.ConnectTimeoutError: (<urllib3.connection.HTTPConnection object at 0x7f5bd7605890>, 'Connection to tiny.cc timed out. (connect timeout=5)')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/requests/adapters.py", line 449, in send
+    timeout=timeout
+  File "/usr/lib/python3.7/site-packages/urllib3/connectionpool.py", line 641, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/usr/lib/python3.7/site-packages/urllib3/util/retry.py", line 399, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='tiny.cc', port=80): Max retries exceeded with url: /variety-options-063 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f5bd7605890>, 'Connection to tiny.cc timed out. (connect timeout=5)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/variety/VarietyWindow.py", line 939, in server_options_thread
+    self.server_options = Util.fetch_json(VarietyWindow.SERVERSIDE_OPTIONS_URL)
+  File "/usr/lib/python3.7/site-packages/variety/Util.py", line 593, in fetch_json
+    return Util.request(url, data).json()
+  File "/usr/lib/python3.7/site-packages/variety/Util.py", line 571, in request
+    timeout=timeout)
+  File "/usr/lib/python3.7/site-packages/requests/api.py", line 60, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3.7/site-packages/requests/sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3.7/site-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3.7/site-packages/requests/adapters.py", line 504, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPConnectionPool(host='tiny.cc', port=80): Max retries exceeded with url: /variety-options-063 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f5bd7605890>, 'Connection to tiny.cc timed out. (connect timeout=5)'))
+ERROR: 2019-08-21 18:17:13,026: download_thread() 'Could not download wallpaper:'
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/variety/VarietyWindow.py", line 991, in download_thread
+    dl.download_one()
+  File "/usr/lib/python3.7/site-packages/variety/EarthDownloader.py", line 39, in download_one
+    downloaded = self.save_locally(self.location, EARTH_IMAGE_URL, force_download=True, extra_metadata={'headline': 'World Sunlight Map'})
+  File "/usr/lib/python3.7/site-packages/variety/Downloader.py", line 117, in save_locally
+    raise e
+  File "/usr/lib/python3.7/site-packages/variety/Downloader.py", line 112, in save_locally
+    r = Util.request(image_url, stream=True)
+  File "/usr/lib/python3.7/site-packages/variety/Util.py", line 572, in request
+    r.raise_for_status()
+  File "/usr/lib/python3.7/site-packages/requests/models.py", line 940, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://static.die.net/earth/mercator/1600.jpg
+ERROR: 2019-08-21 18:27:01,915: parse_server_options() 'Could not parse Unsplash.com serverside options, using defaults 600, 1800'
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/variety/Downloader.py", line 143, in parse_server_options
+    options = self.parent.server_options[key]
+KeyError: 'unsplash_v2'
+ERROR: 2019-08-21 18:27:04,698: download_thread() 'Could not download wallpaper:'
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/variety/VarietyWindow.py", line 991, in download_thread
+    dl.download_one()
+  File "/usr/lib/python3.7/site-packages/variety/EarthDownloader.py", line 39, in download_one
+    downloaded = self.save_locally(self.location, EARTH_IMAGE_URL, force_download=True, extra_metadata={'headline': 'World Sunlight Map'})
+  File "/usr/lib/python3.7/site-packages/variety/Downloader.py", line 117, in save_locally
+    raise e
+  File "/usr/lib/python3.7/site-packages/variety/Downloader.py", line 112, in save_locally
+    r = Util.request(image_url, stream=True)
+  File "/usr/lib/python3.7/site-packages/variety/Util.py", line 572, in request
+    r.raise_for_status()
+  File "/usr/lib/python3.7/site-packages/requests/models.py", line 940, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://static.die.net/earth/mercator/1600.jpg
+2019-08-21, 18:31:42.991 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2019-08-21, 18:31:42.991 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2019-08-21, 18:31:42.991 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2019-08-21, 18:31:42.992 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2019-08-21, 18:31:43.005 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2019-08-21, 18:31:43.006 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2019-08-21, 18:31:43.006 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2019-08-21, 18:31:43.006 [Debug  ] [                                                         0] m_keyboardGrabbed: false
+2019-08-21, 18:31:43.009 [Debug  ] [                                                         0] m_keyboardGrabbed: true
+2019-08-21, 18:31:43.671 [Debug  ] [                                                         0] ConfigSettings: "common" "color_index" QVariant(int, 3)
+2019-08-21, 18:31:44.197 [Debug  ] [                                                         0] ConfigSettings: "common" "default_savepath" QVariant(QString, "")
+2019-08-21, 18:31:44.373 [Debug  ] [                                                         0] ConfigSettings: "arrow" "color_index" QVariant(int, 3)
+2019-08-21, 18:31:44.540 [Debug  ] [                                                         0] ConfigSettings: "arrow" "arrow_linewidth_index" QVariant(int, 1)
+2019-08-21, 18:31:44.707 [Debug  ] [                                                         0] ConfigSettings: "arrow" "straightline_linewidth_index" QVariant(int, 1)
+2019-08-21, 18:31:44.875 [Debug  ] [                                                         0] ConfigSettings: "arrow" "is_straight" QVariant(bool, false)
+2019-08-21, 18:31:45.043 [Debug  ] [                                                         0] ConfigSettings: "oval" "color_index" QVariant(int, 3)
+2019-08-21, 18:31:45.234 [Debug  ] [                                                         0] ConfigSettings: "oval" "linewidth_index" QVariant(int, 1)
+2019-08-21, 18:31:45.443 [Debug  ] [                                                         0] ConfigSettings: "line" "color_index" QVariant(int, 3)
+2019-08-21, 18:31:45.635 [Debug  ] [                                                         0] ConfigSettings: "line" "linewidth_index" QVariant(int, 1)
+2019-08-21, 18:31:45.861 [Debug  ] [                                                         0] ConfigSettings: "rectangle" "color_index" QVariant(int, 3)
+2019-08-21, 18:31:46.053 [Debug  ] [                                                         0] ConfigSettings: "rectangle" "linewidth_index" QVariant(int, 1)
+2019-08-21, 18:31:46.254 [Debug  ] [                                                         0] ConfigSettings: "text" "color_index" QVariant(int, 3)
+2019-08-21, 18:31:46.421 [Debug  ] [                                                         0] ConfigSettings: "text" "fontsize" QVariant(int, 12)
+2019-08-21, 18:31:46.588 [Debug  ] [                                                         0] ConfigSettings: "save" "save_op" QVariant(uint, 0)
+2019-08-21, 18:31:46.755 [Debug  ] [                                                         0] ConfigSettings: "save" "save_quality" QVariant(int, 100)
+2019-08-21, 18:31:46.947 [Debug  ] [                                                         0] ConfigSettings: "effect" "is_blur" QVariant(bool, false)
+2019-08-21, 18:31:47.115 [Debug  ] [                                                         0] ConfigSettings: "effect" "is_mosaic" QVariant(bool, false)
+2019-08-21, 18:31:47.115 [Debug  ] [                                                         0] Setting file: "/home/alex/.config/deepin/deepin-screenshot.conf"
+2019-08-21, 18:31:47.115 [Debug  ] [                                                         0] ~~~~~~ QSize(276, 28)
+2019-08-21, 18:31:47.324 [Debug  ] [                                                         0] ConfigSettings: "save" "save_quality" QVariant(int, 100)
+2019-08-21, 18:31:47.327 [Warning] [                                                         0] QStackedWidget::setCurrentWidget: widget 0x0 not contained in stack
+2019-08-21, 18:31:47.392 [Debug  ] [                                                         0] MainWindow mouseReleaseEvent
+2019-08-21, 18:31:53.590 [Debug  ] [                                                         0] subToolBar shape: "saveList"
+2019-08-21, 18:31:53.590 [Debug  ] [                                                         0] show shapesWidget
+2019-08-21, 18:31:53.593 [Debug  ] [                                                         0] hoveredShape type: ""
+2019-08-21, 18:32:03.257 [Debug  ] [                                                         0] ConfigSettings: "save" "save_op" QVariant(uint, 2)
+2019-08-21, 18:32:03.258 [Debug  ] [                                                         0] release event !!!
+2019-08-21, 18:32:03.258 [Debug  ] [                                                         0] keyboardGrabbed: true
+2019-08-21, 18:32:03.258 [Debug  ] [                                                         0] ShapesWidget saveActionTriggered!
+2019-08-21, 18:32:03.258 [Debug  ] [                                                         0] clear selected!!!
+2019-08-21, 18:32:03.264 [Debug  ] [                                                         0] hoveredShape type: ""
+2019-08-21, 18:32:03.270 [Debug  ] [                                                         0] hoveredShape type: ""
+2019-08-21, 18:32:03.360 [Debug  ] [                                                         0] shotCurrentImg shotFullScreen
+2019-08-21, 18:32:03.370 [Debug  ] [                                                         0] release event !!!
+2019-08-21, 18:32:03.370 [Debug  ] [                                                         0] keyboardGrabbed: true
+No appenders assotiated with category qt.qpa.xcb
+[Warning] <> QXcbConnection: XCB error: 152 (Unknown), sequence: 1869, resource id: 0, major code: 143 (Unknown), minor code: 2
+[: the last argument must be ']'
+[ 2019年08月21日 18:34:31.907 map_win ERROR ] Failed to get the geometry of window 0x0280001a
+[ 2019年08月21日 18:34:31.907 unmap_win WARN ] Unmapping an already unmapped window 0x0280001a (null) twice
+[ 2019年08月21日 18:35:04.228 map_win ERROR ] Failed to get the geometry of window 0x0280001a
+[ 2019年08月21日 18:35:04.229 unmap_win WARN ] Unmapping an already unmapped window 0x0280001a (null) twice
+ERROR: 2019-08-21 18:37:01,916: parse_server_options() 'Could not parse Unsplash.com serverside options, using defaults 600, 1800'
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/variety/Downloader.py", line 143, in parse_server_options
+    options = self.parent.server_options[key]
+KeyError: 'unsplash_v2'
+ERROR: 2019-08-21 18:37:08,575: download_thread() 'Could not download wallpaper:'
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/variety/VarietyWindow.py", line 991, in download_thread
+    dl.download_one()
+  File "/usr/lib/python3.7/site-packages/variety/EarthDownloader.py", line 39, in download_one
+    downloaded = self.save_locally(self.location, EARTH_IMAGE_URL, force_download=True, extra_metadata={'headline': 'World Sunlight Map'})
+  File "/usr/lib/python3.7/site-packages/variety/Downloader.py", line 117, in save_locally
+    raise e
+  File "/usr/lib/python3.7/site-packages/variety/Downloader.py", line 112, in save_locally
+    r = Util.request(image_url, stream=True)
+  File "/usr/lib/python3.7/site-packages/variety/Util.py", line 572, in request
+    r.raise_for_status()
+  File "/usr/lib/python3.7/site-packages/requests/models.py", line 940, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://static.die.net/earth/mercator/1600.jpg
+libsecret-Message: 18:44:55.972: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+libsecret-Message: 18:44:55.985: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+Traceback (most recent call last):
+  File "/usr/bin/networkmanager_dmenu", line 614, in <module>
+    run()
+  File "/usr/bin/networkmanager_dmenu", line 610, in run
+    sel()
+  File "/usr/bin/networkmanager_dmenu", line 221, in __call__
+    self.func(*self.args)
+  File "/usr/bin/networkmanager_dmenu", line 227, in process_ap
+    CLIENT.deactivate_connection_async(nm_ap)
+TypeError: Argument 1 does not allow None as a value
+ERROR: 2019-08-21 18:47:09,948: download_thread() 'Could not download wallpaper:'
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/variety/VarietyWindow.py", line 991, in download_thread
+    dl.download_one()
+  File "/usr/lib/python3.7/site-packages/variety/EarthDownloader.py", line 39, in download_one
+    downloaded = self.save_locally(self.location, EARTH_IMAGE_URL, force_download=True, extra_metadata={'headline': 'World Sunlight Map'})
+  File "/usr/lib/python3.7/site-packages/variety/Downloader.py", line 117, in save_locally
+    raise e
+  File "/usr/lib/python3.7/site-packages/variety/Downloader.py", line 112, in save_locally
+    r = Util.request(image_url, stream=True)
+  File "/usr/lib/python3.7/site-packages/variety/Util.py", line 572, in request
+    r.raise_for_status()
+  File "/usr/lib/python3.7/site-packages/requests/models.py", line 940, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://static.die.net/earth/mercator/1600.jpg
+[ 2019年08月21日 18:50:25.592 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x0060425d.
+[ 2019年08月21日 18:50:25.592 paint_one ERROR ] Failed to bind texture for window 0x0260001e.
+[ 2019年08月21日 18:50:25.592 paint_one ERROR ] Window 0x0260001e is missing painting data.
+[ 2019年08月21日 18:52:47.309 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x006047f2.
+[ 2019年08月21日 18:52:47.309 paint_one ERROR ] Failed to bind texture for window 0x0320001a.
+[ 2019年08月21日 18:52:47.309 paint_one ERROR ] Window 0x0320001a is missing painting data.
+Traceback (most recent call last):
+  File "/usr/bin/networkmanager_dmenu", line 614, in <module>
+    run()
+  File "/usr/bin/networkmanager_dmenu", line 610, in run
+    sel()
+  File "/usr/bin/networkmanager_dmenu", line 219, in __call__
+    self.func()
+  File "/usr/bin/networkmanager_dmenu", line 460, in delete_connection
+    assert len(action) == 1, u"Selection was ambiguous: {}".format(str(sel))
+AssertionError: Selection was ambiguous: dKk4T3WGgRMAQwF31329113460
+
+ERROR: 2019-08-21 18:57:03,428: request() 'SSL Error for url https://api.desktoppr.co/1/wallpapers/random:'
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/urllib3/connectionpool.py", line 603, in urlopen
+    chunked=chunked)
+  File "/usr/lib/python3.7/site-packages/urllib3/connectionpool.py", line 344, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3.7/site-packages/urllib3/connectionpool.py", line 843, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3.7/site-packages/urllib3/connection.py", line 370, in connect
+    ssl_context=context)
+  File "/usr/lib/python3.7/site-packages/urllib3/util/ssl_.py", line 355, in ssl_wrap_socket
+    return context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/usr/lib/python3.7/ssl.py", line 423, in wrap_socket
+    session=session
+  File "/usr/lib/python3.7/ssl.py", line 870, in _create
+    self.do_handshake()
+  File "/usr/lib/python3.7/ssl.py", line 1139, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLCertVerificationError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/requests/adapters.py", line 449, in send
+    timeout=timeout
+  File "/usr/lib/python3.7/site-packages/urllib3/connectionpool.py", line 641, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/usr/lib/python3.7/site-packages/urllib3/util/retry.py", line 399, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.desktoppr.co', port=443): Max retries exceeded with url: /1/wallpapers/random (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/variety/Util.py", line 571, in request
+    timeout=timeout)
+  File "/usr/lib/python3.7/site-packages/requests/api.py", line 60, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3.7/site-packages/requests/sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3.7/site-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3.7/site-packages/requests/adapters.py", line 514, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='api.desktoppr.co', port=443): Max retries exceeded with url: /1/wallpapers/random (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)')))
+ERROR: 2019-08-21 18:57:03,431: download_thread() 'Could not download wallpaper:'
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/urllib3/connectionpool.py", line 603, in urlopen
+    chunked=chunked)
+  File "/usr/lib/python3.7/site-packages/urllib3/connectionpool.py", line 344, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3.7/site-packages/urllib3/connectionpool.py", line 843, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3.7/site-packages/urllib3/connection.py", line 370, in connect
+    ssl_context=context)
+  File "/usr/lib/python3.7/site-packages/urllib3/util/ssl_.py", line 355, in ssl_wrap_socket
+    return context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/usr/lib/python3.7/ssl.py", line 423, in wrap_socket
+    session=session
+  File "/usr/lib/python3.7/ssl.py", line 870, in _create
+    self.do_handshake()
+  File "/usr/lib/python3.7/ssl.py", line 1139, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLCertVerificationError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/requests/adapters.py", line 449, in send
+    timeout=timeout
+  File "/usr/lib/python3.7/site-packages/urllib3/connectionpool.py", line 641, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/usr/lib/python3.7/site-packages/urllib3/util/retry.py", line 399, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.desktoppr.co', port=443): Max retries exceeded with url: /1/wallpapers/random (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/variety/VarietyWindow.py", line 986, in download_thread
+    self.download_one_from(downloader)
+  File "/usr/lib/python3.7/site-packages/variety/VarietyWindow.py", line 1018, in download_one_from
+    file = downloader.download_one()
+  File "/usr/lib/python3.7/site-packages/variety/DesktopprDownloader.py", line 35, in download_one
+    response = Util.fetch_json(self.location)
+  File "/usr/lib/python3.7/site-packages/variety/Util.py", line 593, in fetch_json
+    return Util.request(url, data).json()
+  File "/usr/lib/python3.7/site-packages/variety/Util.py", line 571, in request
+    timeout=timeout)
+  File "/usr/lib/python3.7/site-packages/requests/api.py", line 60, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3.7/site-packages/requests/sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3.7/site-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3.7/site-packages/requests/adapters.py", line 514, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='api.desktoppr.co', port=443): Max retries exceeded with url: /1/wallpapers/random (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)')))
+libsecret-Message: 18:57:06.378: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+nm-applet-Message: 18:57:06.378: No keyring secrets found for DESKTOP-NUIAN0H 3607/802-11-wireless-security; asking user.
+libsecret-Message: 18:57:06.379: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+libsecret-Message: 18:57:15.951: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+libsecret-Message: 18:57:15.954: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+ERROR: 2019-08-21 19:07:03,039: download_thread() 'Could not download wallpaper:'
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/variety/VarietyWindow.py", line 991, in download_thread
+    dl.download_one()
+  File "/usr/lib/python3.7/site-packages/variety/EarthDownloader.py", line 39, in download_one
+    downloaded = self.save_locally(self.location, EARTH_IMAGE_URL, force_download=True, extra_metadata={'headline': 'World Sunlight Map'})
+  File "/usr/lib/python3.7/site-packages/variety/Downloader.py", line 117, in save_locally
+    raise e
+  File "/usr/lib/python3.7/site-packages/variety/Downloader.py", line 112, in save_locally
+    r = Util.request(image_url, stream=True)
+  File "/usr/lib/python3.7/site-packages/variety/Util.py", line 572, in request
+    r.raise_for_status()
+  File "/usr/lib/python3.7/site-packages/requests/models.py", line 940, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://static.die.net/earth/mercator/1600.jpg
+[ 2019年08月21日 19:10:15.427 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x0060581c.
+[ 2019年08月21日 19:10:15.427 paint_one ERROR ] Failed to bind texture for window 0x0260001e.
+[ 2019年08月21日 19:10:15.427 paint_one ERROR ] Window 0x0260001e is missing painting data.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+(WARN-735 x11selection.c:309) Selection is too long.
+ERROR: 2019-08-21 19:17:01,918: parse_server_options() 'Could not parse Unsplash.com serverside options, using defaults 600, 1800'
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/variety/Downloader.py", line 143, in parse_server_options
+    options = self.parent.server_options[key]
+KeyError: 'unsplash_v2'
+ERROR: 2019-08-21 19:17:04,468: download_thread() 'Could not download wallpaper:'
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/variety/VarietyWindow.py", line 991, in download_thread
+    dl.download_one()
+  File "/usr/lib/python3.7/site-packages/variety/EarthDownloader.py", line 39, in download_one
+    downloaded = self.save_locally(self.location, EARTH_IMAGE_URL, force_download=True, extra_metadata={'headline': 'World Sunlight Map'})
+  File "/usr/lib/python3.7/site-packages/variety/Downloader.py", line 117, in save_locally
+    raise e
+  File "/usr/lib/python3.7/site-packages/variety/Downloader.py", line 112, in save_locally
+    r = Util.request(image_url, stream=True)
+  File "/usr/lib/python3.7/site-packages/variety/Util.py", line 572, in request
+    r.raise_for_status()
+  File "/usr/lib/python3.7/site-packages/requests/models.py", line 940, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Temporarily Unavailable for url: https://static.die.net/earth/mercator/1600.jpg
+ERROR: 2019-08-21 19:27:03,959: request() 'SSL Error for url https://api.desktoppr.co/1/wallpapers/random:'
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/urllib3/connectionpool.py", line 603, in urlopen
+    chunked=chunked)
+  File "/usr/lib/python3.7/site-packages/urllib3/connectionpool.py", line 344, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3.7/site-packages/urllib3/connectionpool.py", line 843, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3.7/site-packages/urllib3/connection.py", line 370, in connect
+    ssl_context=context)
+  File "/usr/lib/python3.7/site-packages/urllib3/util/ssl_.py", line 355, in ssl_wrap_socket
+    return context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/usr/lib/python3.7/ssl.py", line 423, in wrap_socket
+    session=session
+  File "/usr/lib/python3.7/ssl.py", line 870, in _create
+    self.do_handshake()
+  File "/usr/lib/python3.7/ssl.py", line 1139, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLCertVerificationError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/requests/adapters.py", line 449, in send
+    timeout=timeout
+  File "/usr/lib/python3.7/site-packages/urllib3/connectionpool.py", line 641, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/usr/lib/python3.7/site-packages/urllib3/util/retry.py", line 399, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.desktoppr.co', port=443): Max retries exceeded with url: /1/wallpapers/random (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/variety/Util.py", line 571, in request
+    timeout=timeout)
+  File "/usr/lib/python3.7/site-packages/requests/api.py", line 60, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3.7/site-packages/requests/sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3.7/site-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3.7/site-packages/requests/adapters.py", line 514, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='api.desktoppr.co', port=443): Max retries exceeded with url: /1/wallpapers/random (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)')))
+ERROR: 2019-08-21 19:27:03,961: download_thread() 'Could not download wallpaper:'
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/urllib3/connectionpool.py", line 603, in urlopen
+    chunked=chunked)
+  File "/usr/lib/python3.7/site-packages/urllib3/connectionpool.py", line 344, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3.7/site-packages/urllib3/connectionpool.py", line 843, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3.7/site-packages/urllib3/connection.py", line 370, in connect
+    ssl_context=context)
+  File "/usr/lib/python3.7/site-packages/urllib3/util/ssl_.py", line 355, in ssl_wrap_socket
+    return context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/usr/lib/python3.7/ssl.py", line 423, in wrap_socket
+    session=session
+  File "/usr/lib/python3.7/ssl.py", line 870, in _create
+    self.do_handshake()
+  File "/usr/lib/python3.7/ssl.py", line 1139, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLCertVerificationError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/requests/adapters.py", line 449, in send
+    timeout=timeout
+  File "/usr/lib/python3.7/site-packages/urllib3/connectionpool.py", line 641, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/usr/lib/python3.7/site-packages/urllib3/util/retry.py", line 399, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.desktoppr.co', port=443): Max retries exceeded with url: /1/wallpapers/random (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.7/site-packages/variety/VarietyWindow.py", line 986, in download_thread
+    self.download_one_from(downloader)
+  File "/usr/lib/python3.7/site-packages/variety/VarietyWindow.py", line 1018, in download_one_from
+    file = downloader.download_one()
+  File "/usr/lib/python3.7/site-packages/variety/DesktopprDownloader.py", line 35, in download_one
+    response = Util.fetch_json(self.location)
+  File "/usr/lib/python3.7/site-packages/variety/Util.py", line 593, in fetch_json
+    return Util.request(url, data).json()
+  File "/usr/lib/python3.7/site-packages/variety/Util.py", line 571, in request
+    timeout=timeout)
+  File "/usr/lib/python3.7/site-packages/requests/api.py", line 60, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3.7/site-packages/requests/sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3.7/site-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3.7/site-packages/requests/adapters.py", line 514, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='api.desktoppr.co', port=443): Max retries exceeded with url: /1/wallpapers/random (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1076)')))
