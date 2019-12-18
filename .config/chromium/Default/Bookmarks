@@ -1,0 +1,36 @@
+{
+   "checksum": "c26fdddfdde56f1e9c08ea72b30c1ecc",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13213550412812927",
+            "id": "5",
+            "name": "[图文]高西全 - 丁玉美 - 数字信号处理课件 - 百度文库",
+            "type": "url",
+            "url": "https://wenku.baidu.com/view/2fd85b0cd5bbfd0a795673eb.html"
+         } ],
+         "date_added": "13213546478249201",
+         "date_modified": "13213550412812927",
+         "id": "1",
+         "name": "书签栏",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13213546478249334",
+         "date_modified": "0",
+         "id": "2",
+         "name": "其他书签",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13213546478249338",
+         "date_modified": "0",
+         "id": "3",
+         "name": "移动设备书签",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

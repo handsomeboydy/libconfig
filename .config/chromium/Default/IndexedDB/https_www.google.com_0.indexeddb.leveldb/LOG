@@ -1,0 +1,5 @@
+2019/08/19-11:42:07.251 1d1b Reusing MANIFEST /home/alex/.config/chromium/Default/IndexedDB/https_www.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/08/19-11:42:07.252 1d1b Recovering log #16
+2019/08/19-11:42:07.280 1d1b Level-0 table #20: started
+2019/08/19-11:42:07.352 1d1b Level-0 table #20: 2699069 bytes OK
+2019/08/19-11:42:07.359 1d1b Delete type=0 #16

@@ -8,6 +8,7 @@
 # i3 config file (v4)
 #
 # Please see https://i3wm.org/docs/userguide.html for a complete reference!
+exec_always ~/.config/polybar/launch.sh
 exec_always compton
 exec_always variety
 exec_always fcitx
@@ -174,8 +175,7 @@ mode "resize" {
 }
 
 bindsym $mod+r mode "resize"
-gaps inner 15
+gaps inner 9
 
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
-

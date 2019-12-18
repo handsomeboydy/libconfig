@@ -1,3 +1,11 @@
+[KPropertiesDialog]
+Height 1080=428
+Width 1920=358
+
+[PlasmaRunnerManager]
+LaunchCounts=
+pluginWhiteList=desktopsessions,services,places,PowerDevil,calculator,unitconverter,shell,bookmarks,recentdocuments,locations,baloosearch
+
 [PlasmaViews][Panel 1][Horizontal1024]
 thickness=45
 
@@ -40,8 +48,8 @@ thickness=45
 [PlasmaViews][Panel 1][Horizontal864]
 thickness=45
 
-[PlasmaViews][Panel 1][Vertical1080]
-thickness=30
+[PlasmaViews][Panel 2][Horizontal1920]
+thickness=36
 
 [ScreenConnectors]
 0=DP1

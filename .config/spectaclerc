@@ -1,0 +1,25 @@
+[General]
+copySaveLocation=false
+default-save-image-format=png
+default-save-location[$e]=$HOME/Pictures/New Folder
+lastSaveAsFile=file:///home/alex/图片/screenshot/Screenshot_20191217config.png
+lastSaveFile=file:///home/alex/图片/screenshot/Screenshot_20191217config.png
+save-filename-format=Screenshot_%Y%M%D_%H%m%S
+
+[GuiConfig]
+alwaysRememberRegion=false
+compressionQuality=90
+cropRegion=0,0,0,0
+lastUsedSaveMode=0
+printKeyActionRunning=0
+quitAfterSaveCopyExport=true
+rememberLastRectangularRegion=true
+showMagnifier=false
+useLightMaskColour=false
+useReleaseToCapture=false
+window-position=747,198
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/图片/screenshot/Screenshot.png,file:$HOME/图片/screenshot/Screenshot_20191217config.png,file:$HOME/图片/screenshot/Screenshot_20191217home.png
+Recent URLs[$e]=file:$HOME/图片/screenshot/
+detailViewIconSize=0

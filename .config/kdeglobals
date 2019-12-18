@@ -91,22 +91,44 @@ ForegroundNormal=41,47,52
 ForegroundPositive=52,152,219
 ForegroundVisited=145,61,136
 
+[DirSelect Dialog]
+DirSelectDialog Size=640,480
+History Items[$e]=file:$HOME/Downloads,file:$HOME/Desktop
+
 [General]
 BrowserApplication=chromium.desktop
 ColorScheme=Breath
 Name=Breath
 XftAntialias=true
-XftHintStyle=hintmedium
+XftHintStyle=
 XftSubPixel=none
-dbfile=/home/alex/.mozilla/firefox/no9vsg2n.default/places.sqlite
 shadeSortColumn=true
 toolBarFont=Noto Sans,10,-1,5,50,0,0,0,0,0
 
 [Icons]
-Theme=breath
+Theme=breeze
 
 [KDE]
 contrast=4
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=true
+Breadcrumb Navigation=true
+Decoration position=2
+LocationCombo Completionmode=5
+PathCombo Completionmode=5
+Show Bookmarks=false
+Show Full Path=false
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=false
+Sort by=Name
+Sort directories first=true
+Sort reversed=false
+Speedbar Width=89
+View Style=DetailTree
 
 [WM]
 activeBackground=236,236,236

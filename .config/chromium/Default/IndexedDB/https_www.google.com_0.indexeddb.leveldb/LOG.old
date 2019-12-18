@@ -1,0 +1,15 @@
+2019/08/19-11:41:51.195 1d05 Reusing MANIFEST /home/alex/.config/chromium/Default/IndexedDB/https_www.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/08/19-11:41:51.195 1d05 Recovering log #12
+2019/08/19-11:41:51.207 1d05 Level-0 table #15: started
+2019/08/19-11:41:51.229 1d05 Level-0 table #15: 2687618 bytes OK
+2019/08/19-11:41:51.234 1d05 Delete type=0 #12
+2019/08/19-11:41:51.235 1d23 Compacting 4@0 + 1@1 files
+2019/08/19-11:41:51.337 1d23 Generated table #17@0: 64 keys, 2686714 bytes
+2019/08/19-11:41:51.355 1d23 Generated table #18@0: 62 keys, 1320881 bytes
+2019/08/19-11:41:51.355 1d23 Compacted 4@0 + 1@1 files => 4007595 bytes
+2019/08/19-11:41:51.359 1d23 compacted to: files[ 0 2 1 0 0 0 0 ]
+2019/08/19-11:41:51.359 1d23 Delete type=2 #11
+2019/08/19-11:41:51.360 1d23 Delete type=2 #15
+2019/08/19-11:41:51.360 1d23 Delete type=2 #7
+2019/08/19-11:41:51.361 1d23 Delete type=2 #9
+2019/08/19-11:41:51.361 1d23 Delete type=2 #13

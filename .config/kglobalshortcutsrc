@@ -1,6 +1,6 @@
 [ActivityManager]
 _k_friendly_name=活动管理器
-switch-to-activity-7316c9ac-86dc-434a-ae17-c76746ab7600=none,none,切换到活动“默认”
+switch-to-activity-f35d5ecc-e2e6-489a-94ce-fdcef27a9185=none,none,切换到活动“默认”
 
 [KDE Keyboard Layout Switcher]
 Switch to Next Keyboard Layout=Ctrl+Alt+K,none,切换到下一个键盘布局
@@ -23,12 +23,12 @@ display=Display\tMeta+P,Display\tMeta+P,切换显示器
 
 [khotkeys]
 _k_friendly_name=KDE Daemon
-{096c5d70-cbf9-434b-9bd5-9931fe253f0a}=Print,none,启动截图工具
-{12afcf7d-6696-4127-9b2d-f070fe5ae8db}=Shift+Print,none,对全屏截图
-{4098eca2-bd21-4d2f-89de-6adfaaaa55b9}=Ctrl+Alt+T,none,Launch Konsole
-{5f5c1373-24d0-485e-958b-25c06050b79c}=Meta+Print,none,对活动窗口截图
+{475a7fb1-3d3f-45dc-9e89-d2d2bf7f78ab}=Shift+Print,none,对全屏截图
+{9abed1a0-6678-46c9-be68-add267984942}=Meta+Print,none,对活动窗口截图
+{a0aa15f2-2501-483c-8163-4ed4f3e92054}=Meta+Shift+Print,none,对矩形区域截图
 {d03619b6-9b3c-48cc-9d9c-a2aadb485550}=,none,搜索
-{ef78c121-7f5c-4951-a7e0-142e4429f30f}=Meta+Shift+Print,none,对矩形区域截图
+{d0ed17ba-b356-4c88-b0c1-f8844f46135b}=Print,none,启动截图工具
+{e10d9829-f0fe-4000-9b15-44e155188f28}=Ctrl+Alt+T,none,Launch Konsole
 
 [kmix]
 _k_friendly_name=音频音量
@@ -95,8 +95,8 @@ Switch to Desktop 2=Ctrl+F2,Ctrl+F2,切换到桌面 2
 Switch to Desktop 20=none,none,切换到桌面 20
 Switch to Desktop 3=Ctrl+F3,Ctrl+F3,切换到桌面 3
 Switch to Desktop 4=Ctrl+F4,Ctrl+F4,切换到桌面 4
-Switch to Desktop 5=none,none,切换到桌面 5
-Switch to Desktop 6=none,none,切换到桌面 6
+Switch to Desktop 5=Ctrl+F5,none,切换到桌面 5
+Switch to Desktop 6=Ctrl+F6,none,切换到桌面 6
 Switch to Desktop 7=none,none,切换到桌面 7
 Switch to Desktop 8=none,none,切换到桌面 8
 Switch to Desktop 9=none,none,切换到桌面 9
@@ -200,6 +200,15 @@ view_actual_size=,Meta+0,实际大小(A)
 view_zoom_in=Meta+=,Meta+=,放大(I)
 view_zoom_out=Meta+-,Meta+-,缩小(O)
 
+[mediacontrol]
+_k_friendly_name=媒体控制器
+mediavolumedown=none,none,媒体音量下降
+mediavolumeup=none,none,媒体音量上升
+nextmedia=Media Next,Media Next,媒体播放下一首
+playpausemedia=Media Play,Media Play,播放/暂停媒体播放
+previousmedia=Media Previous,Media Previous,媒体播放上一首
+stopmedia=Media Stop,Media Stop,停止媒体播放
+
 [org_kde_powerdevil]
 Decrease Keyboard Brightness=Keyboard Brightness Down,Keyboard Brightness Down,降低键盘亮度
 Decrease Screen Brightness=Monitor Brightness Down,Monitor Brightness Down,降低屏幕亮度
@@ -223,6 +232,7 @@ activate task manager entry 6=Meta+6,Meta+6,激活任务管理器条目 6
 activate task manager entry 7=Meta+7,Meta+7,激活任务管理器条目 7
 activate task manager entry 8=Meta+8,Meta+8,激活任务管理器条目 8
 activate task manager entry 9=Meta+9,Meta+9,激活任务管理器条目 9
+activate widget 3=Alt+F1,none,激活 程序启动器 部件
 clear-history=none,none,清除剪贴板历史(L)
 clipboard_action=Ctrl+Alt+X,Ctrl+Alt+X,启用剪贴板动作
 cycleNextAction=none,none,下一个历史项

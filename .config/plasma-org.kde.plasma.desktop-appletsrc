@@ -9,10 +9,10 @@ RightButton;NoModifier=org.kde.contextmenu
 
 [Containments][1]
 activityId=
-formfactor=3
+formfactor=2
 immutability=1
 lastScreen=0
-location=5
+location=4
 plugin=org.kde.panel
 wallpaperplugin=org.kde.image
 
@@ -39,38 +39,38 @@ immutability=1
 plugin=org.kde.plasma.pager
 
 [Containments][1][Applets][3][Configuration]
-PreloadWeight=18
+PreloadWeight=0
 
 [Containments][1][Applets][4]
 immutability=1
 plugin=org.kde.plasma.icontasks
 
 [Containments][1][Applets][4][Configuration]
-PreloadWeight=18
+PreloadWeight=0
 
 [Containments][1][Applets][4][Configuration][General]
-launchers=file:///usr/share/applications/org.kde.dolphin.desktop?wmClass=dolphin,file:///usr/share/applications/firefox.desktop?wmClass=firefox
+launchers=file:///usr/share/applications/org.kde.dolphin.desktop?wmClass=dolphin,file:///usr/share/applications/firefox.desktop?wmClass=firefox,applications:steam.desktop
 
 [Containments][1][Applets][5]
 immutability=1
 plugin=org.kde.plasma.showdesktop
 
 [Containments][1][Applets][5][Configuration]
-PreloadWeight=18
+PreloadWeight=0
 
 [Containments][1][Applets][6]
 immutability=1
 plugin=org.kde.plasma.trash
 
 [Containments][1][Applets][6][Configuration]
-PreloadWeight=18
+PreloadWeight=0
 
 [Containments][1][Applets][7]
 immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][1][Applets][7][Configuration]
-PreloadWeight=92
+PreloadWeight=0
 SystrayContainmentId=8
 
 [Containments][1][Applets][7][Configuration][Containments][8]
@@ -82,20 +82,44 @@ immutability=1
 plugin=org.kde.plasma.digitalclock
 
 [Containments][1][Applets][8][Configuration]
-PreloadWeight=18
+PreloadWeight=0
 
 [Containments][1][ConfigDialog]
-DialogHeight=1080
-DialogWidth=168
+DialogHeight=86
+DialogWidth=1920
 
 [Containments][1][Configuration]
-PreloadWeight=18
+PreloadWeight=0
 
 [Containments][1][General]
 AppletOrder=2;3;4;5;6;7;8
 
+[Containments][1][Wallpaper][org.kde.image][General]
+Image=file:///home/alex/.config/variety/wallpaper/wallpaper-clock-260ef0b5eea14828c871077dd36a0f97.jpg
+
+[Containments][2][Applets][3][Configuration]
+PreloadWeight=89
+
+[Containments][2][Applets][4][Configuration]
+PreloadWeight=42
+
+[Containments][2][Applets][5][Configuration]
+PreloadWeight=42
+
+[Containments][2][Applets][6][Configuration]
+PreloadWeight=42
+
+[Containments][2][Applets][8][Configuration]
+PreloadWeight=42
+
+[Containments][2][Applets][9][Configuration]
+PreloadWeight=42
+
+[Containments][2][Configuration]
+PreloadWeight=26
+
 [Containments][35]
-activityId=7316c9ac-86dc-434a-ae17-c76746ab7600
+activityId=f35d5ecc-e2e6-489a-94ce-fdcef27a9185
 formfactor=0
 immutability=1
 lastScreen=0
@@ -103,18 +127,31 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
+[Containments][35][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
 [Containments][35][Configuration]
-PreloadWeight=18
+PreloadWeight=0
+
+[Containments][35][General]
+ToolBoxButtonState=topright
+ToolBoxButtonX=1892
+positions=1,17,desktop:/1.py,0,15,desktop:/公共,0,12,desktop:/mydocuments,0,13,desktop:/音乐,0,10,desktop:/模板,0,11,desktop:/myconfig,0,8,desktop:/桌面,0,9,desktop:/下载,0,6,desktop:/my-first-commit,0,7,desktop:/Downloads,0,4,desktop:/Pictures,0,5,desktop:/深度截图_选择区域_20191022165520.png,0,2,desktop:/图片,0,3,desktop:/视频,0,0,desktop:/create_ap,0,1,desktop:/文档,0,14
+sortMode=-1
 
 [Containments][35][Wallpaper][org.kde.image][General]
-Image=file:///home/alex/.config/variety/wallpaper/wallpaper-clock-294b549d6ffcb768f8896f37136469a6.jpg
+Image=file:///home/alex/.config/variety/wallpaper/wallpaper-clock-b4ab5fba5e7fdc37959bbe26c353ca9b.jpg
+
+[Containments][7][Configuration]
+PreloadWeight=42
 
 [Containments][8]
 activityId=
-formfactor=3
+formfactor=2
 immutability=1
 lastScreen=0
-location=5
+location=4
 plugin=org.kde.plasma.private.systemtray
 wallpaperplugin=org.kde.image
 
@@ -123,81 +160,118 @@ immutability=1
 plugin=org.kde.kdeconnect
 
 [Containments][8][Applets][36][Configuration]
-PreloadWeight=18
+PreloadWeight=0
 
 [Containments][8][Applets][37]
 immutability=1
 plugin=org.kde.plasma.clipboard
 
 [Containments][8][Applets][37][Configuration]
-PreloadWeight=18
+PreloadWeight=0
 
 [Containments][8][Applets][38]
 immutability=1
 plugin=org.kde.plasma.printmanager
 
 [Containments][8][Applets][38][Configuration]
-PreloadWeight=18
+PreloadWeight=0
 
 [Containments][8][Applets][39]
 immutability=1
 plugin=org.kde.plasma.devicenotifier
 
 [Containments][8][Applets][39][Configuration]
-PreloadWeight=28
+PreloadWeight=0
 
 [Containments][8][Applets][40]
 immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][8][Applets][40][Configuration]
-PreloadWeight=18
+PreloadWeight=0
 
 [Containments][8][Applets][41]
 immutability=1
 plugin=org.kde.plasma.keyboardindicator
 
 [Containments][8][Applets][41][Configuration]
-PreloadWeight=18
+PreloadWeight=0
 
 [Containments][8][Applets][42]
 immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][8][Applets][42][Configuration]
-PreloadWeight=18
+PreloadWeight=0
 
 [Containments][8][Applets][43]
 immutability=1
 plugin=org.kde.plasma.battery
 
 [Containments][8][Applets][43][Configuration]
-PreloadWeight=18
+PreloadWeight=0
 
 [Containments][8][Applets][44]
 immutability=1
-plugin=org.kde.plasma.bluetooth
+plugin=org.kde.plasma.networkmanagement
 
 [Containments][8][Applets][44][Configuration]
-PreloadWeight=18
+PreloadWeight=0
 
 [Containments][8][Applets][45]
 immutability=1
-plugin=org.kde.plasma.networkmanagement
+plugin=org.kde.plasma.bluetooth
 
 [Containments][8][Applets][45][Configuration]
-PreloadWeight=92
+PreloadWeight=0
 
-[Containments][8][Applets][45][Configuration][ConfigDialog]
-DialogHeight=540
-DialogWidth=720
+[Containments][8][Applets][46]
+immutability=1
+plugin=org.kde.plasma.mediacontroller
+
+[Containments][8][Applets][46][Configuration]
+PreloadWeight=42
 
 [Containments][8][Configuration]
-PreloadWeight=18
+PreloadWeight=0
 
 [Containments][8][General]
-extraItems=org.kde.plasma.notifications,org.kde.plasma.clipboard,org.kde.plasma.battery,org.kde.plasma.keyboardindicator,org.kde.plasma.bluetooth,org.kde.plasma.devicenotifier,org.kde.plasma.printmanager,org.kde.kdeconnect,org.kde.plasma.volume,org.kde.plasma.networkmanagement,org.kde.plasma.mediacontroller
-knownItems=org.kde.plasma.notifications,org.kde.plasma.clipboard,org.kde.plasma.battery,org.kde.plasma.keyboardindicator,org.kde.plasma.bluetooth,org.kde.plasma.devicenotifier,org.kde.plasma.printmanager,org.kde.kdeconnect,org.kde.plasma.volume,org.kde.plasma.networkmanagement,org.kde.plasma.mediacontroller
+extraItems=org.kde.plasma.printmanager,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.bluetooth,org.kde.plasma.notifications,org.kde.plasma.devicenotifier,org.kde.plasma.clipboard,org.kde.kdeconnect,org.kde.plasma.keyboardindicator,org.kde.plasma.battery,org.kde.plasma.volume
+knownItems=org.kde.plasma.printmanager,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.bluetooth,org.kde.plasma.notifications,org.kde.plasma.devicenotifier,org.kde.plasma.clipboard,org.kde.kdeconnect,org.kde.plasma.keyboardindicator,org.kde.plasma.battery,org.kde.plasma.volume
+
+[Containments][9][Applets][36][Configuration]
+PreloadWeight=42
+
+[Containments][9][Applets][37][Configuration]
+PreloadWeight=42
+
+[Containments][9][Applets][38][Configuration]
+PreloadWeight=42
+
+[Containments][9][Applets][39][Configuration]
+PreloadWeight=42
+
+[Containments][9][Applets][40][Configuration]
+PreloadWeight=42
+
+[Containments][9][Applets][41][Configuration]
+PreloadWeight=42
+
+[Containments][9][Applets][42][Configuration]
+PreloadWeight=42
+
+[Containments][9][Applets][43][Configuration]
+PreloadWeight=42
+
+[Containments][9][Applets][44][Configuration]
+PreloadWeight=42
+
+[Containments][9][Applets][45][Configuration]
+PreloadWeight=42
+
+[Containments][9][Configuration]
+PreloadWeight=42
 
 [ScreenMapping]
-itemsOnDisabledScreens=
+itemsOnDisabledScreens=0,27,desktop:/深度截图_选择区域_20191022165520.png,desktop:/my-first-commit,desktop:/steam.desktop,desktop:/文档,desktop:/file:⁄⁄⁄home⁄alex.⁄.sdf,desktop:/Downloads,desktop:/Github,desktop:/图片,desktop:/Videos,desktop:/Module,desktop:/视频,desktop:/下载,desktop:/音乐,desktop:/Documents,desktop:/create_ap,desktop:/chromium.desktop,desktop:/Desktop,desktop:/.directory,desktop:/模板,desktop:/Pictures,desktop:/Music,desktop:/mydocuments,desktop:/桌面,desktop:/1.py,desktop:/file:⁄⁄⁄home⁄alex.⁄sdf,desktop:/myconfig,desktop:/公共
+screenMapping=desktop:/深度截图_选择区域_20191022165520.png,0,desktop:/my-first-commit,0,desktop:/steam.desktop,0,desktop:/文档,0,desktop:/file:⁄⁄⁄home⁄alex.⁄.sdf,0,desktop:/Downloads,0,desktop:/Github,0,desktop:/图片,0,desktop:/Videos,0,desktop:/Module,0,desktop:/视频,0,desktop:/下载,0,desktop:/音乐,0,desktop:/Documents,0,desktop:/create_ap,0,desktop:/chromium.desktop,0,desktop:/Desktop,0,desktop:/.directory,0,desktop:/模板,0,desktop:/Pictures,0,desktop:/Music,0,desktop:/mydocuments,0,desktop:/桌面,0,desktop:/1.py,0,desktop:/file:⁄⁄⁄home⁄alex.⁄sdf,0,desktop:/myconfig,0,file:///home/alex/file:⁄⁄⁄home⁄alex⁄sdf,0,desktop:/公共,0

@@ -1,12 +1,26 @@
 [Desktop Entry]
 FullScreen=false
+shouldShowMenuBarComingFromFullScreen=true
+shouldShowToolBarComingFromFullScreen=true
 
 [MainWindow]
-Height 1080=625
-State=AAAA/wAAAAD9AAAAAAAABekAAAI1AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Height 1080=1032
+State=AAAA/wAAAAD9AAAAAAAABjIAAAPMAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-Width 1920=1513
+Width 1920=1586
 
 [Recent Files]
-File1[$e]=$HOME/下载/交直流电力系统仿真技术－欧开健(1).pdf
-Name1[$e]=交直流电力系统仿真技术－欧开健(1).pdf
+File1[$e]=$HOME/mydocuments/Downloads/交直流电力系统动态行为分析－徐政(1).pdf
+File2[$e]=$HOME/Downloads/宋国兵/一种应对高阻故障的单端自适应行波保护方法_张晨浩.pdf
+File3[$e]=$HOME/Downloads/宋国兵/基于故障分量差动电流极性特征的直流线路故障全过程保护原理_侯俊杰.pdf
+File4[$e]=$HOME/Downloads/高压直流输电线路保护与故障测距原理研究_闫建欣.pdf
+File5[$e]=$HOME/Downloads/束洪春/光伏分散接入中压配网保护与故障隔离研究_张广斌.pdf
+File6[$e]=$HOME/Downloads/束洪春/基于故障特征频带及形态谱的单相接地故障选线_束洪春.pdf
+File7[$e]=$HOME/my-first-commit/Documents/交直流电力系统动态行为分析－徐政(1).pdf
+Name1[$e]=交直流电力系统动态行为分析－徐政(1).pdf
+Name2[$e]=一种应对高阻故障的单端自适应行波保护方法_张晨浩.pdf
+Name3[$e]=基于故障分量差动电流极性特征的直流线路故障全过程保护原理_侯俊杰.pdf
+Name4[$e]=高压直流输电线路保护与故障测距原理研究_闫建欣.pdf
+Name5[$e]=光伏分散接入中压配网保护与故障隔离研究_张广斌.pdf
+Name6[$e]=基于故障特征频带及形态谱的单相接地故障选线_束洪春.pdf
+Name7[$e]=交直流电力系统动态行为分析－徐政(1).pdf

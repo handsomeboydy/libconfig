@@ -1,2 +1,5 @@
+[General]
+history=ala,c,ra,st,nvi,n,al,as
+
 [PlasmaRunnerManager]
-LaunchCounts=
+LaunchCounts=2 services_nvidia-settings.desktop,1 services_cookies.desktop,1 services_steam.desktop,1 shell_as,8 services_alacritty.desktop

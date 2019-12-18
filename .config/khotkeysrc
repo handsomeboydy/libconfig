@@ -63,7 +63,7 @@ TriggersCount=1
 [Data_1_2Triggers0]
 Key=Ctrl+Alt+T
 Type=SHORTCUT
-Uuid={4098eca2-bd21-4d2f-89de-6adfaaaa55b9}
+Uuid={e10d9829-f0fe-4000-9b15-44e155188f28}
 
 [Data_2]
 Comment=基本 Konqueror 手势
@@ -519,7 +519,7 @@ TriggersCount=1
 [Data_3_1Triggers0]
 Key=Ctrl+Alt+I
 Type=SHORTCUT
-Uuid={89375001-0ff6-4ed3-b1c9-cec30ea86966}
+Uuid={422bd578-ee6a-41e0-9577-63d7e479908b}
 
 [Data_3_2]
 Comment=在按下 Alt+Ctrl+H 之后，会模拟您在键盘上输入“Hello”。如果您懒得输入一些像“unsigned”之类的文字，这类动作就会非常有用。输入中的每次按键都会以冒号“:”间隔。注意这里的按键是指真正的按键，所以您必须定义您实际所要按的键。在下面表格中，左面一栏显示的是输入，右面一栏显示的是要按的键。\n\n“enter”(换行)                Enter 或 Return\na(小写a)                          A\nA(大写A)                       Shift+A\n:(冒号)                                  Shift+;\n' '(空格)                              Space
@@ -546,7 +546,7 @@ TriggersCount=1
 [Data_3_2Triggers0]
 Key=Ctrl+Alt+H
 Type=SHORTCUT
-Uuid={845e7ed2-2345-4150-a44c-cc9d963ea715}
+Uuid={5225003b-0555-4c54-9024-7ce05943e7fa}
 
 [Data_3_3]
 Comment=这个动作运行 Konsole，在按下 Ctrl+Alt+T 之后。
@@ -572,7 +572,7 @@ TriggersCount=1
 [Data_3_3Triggers0]
 Key=Ctrl+Alt+T
 Type=SHORTCUT
-Uuid={33dbb9b7-e19c-4203-a0cb-8cd72a3aa74f}
+Uuid={f224dd6f-6d1c-4a54-b164-e8a62409e9d1}
 
 [Data_3_4]
 Comment=请先阅读“输入 Hello”动作的注释。\n\nCtrl+F4 这个组合键在 Qt 设计器中是用于关闭窗口，而在 KDE 中却是转到第四个虚拟桌面的快捷键，因此在 Qt 设计器中此组合键是无法使用的。另外，Qt 设计器不使用 KDE 标准的 Ctrl+W 键来关闭窗口。\n\n要解决这个问题，可以当活动窗口为 Qt 设计器时，把 Ctrl+W 重映射到 Ctrl+F4 组合键上，这样每次在 Qt 设计器窗口中按下 Ctrl+W 时，实际发送到程序的键位将被 Ctrl+F4 替代。在其它程序中，Ctrl+W 的作用不会受到影响。\n\n现在我们需要指定三样东西：一个针对“Ctrl+W”快捷键的新触发器，发送 Ctrl+F4 键位时新的键盘输入动作，以及确定活动窗口是否是 Qt 设计器的新条件。\nQt 设计器的窗口标题似乎总是“Qt Designer by Trolltech”，因此可以通过检查活动窗口标题是否符合此字符串的方式来指定条件。
@@ -617,7 +617,7 @@ TriggersCount=1
 [Data_3_4Triggers0]
 Key=Ctrl+W
 Type=SHORTCUT
-Uuid={fe1f1fe9-9eb9-4399-9b42-320b679572b3}
+Uuid={ae424b28-39d3-49cb-9ead-232ddbb497ba}
 
 [Data_3_5]
 Comment=通过按下 Alt+Ctrl+W，将会执行一个 D-Bus 调用显示 minicli。您可以使用任意的 DCOP 调用，就像您在命令行下使用“qdbus”工具一样。
@@ -646,7 +646,7 @@ TriggersCount=1
 [Data_3_5Triggers0]
 Key=Ctrl+Alt+W
 Type=SHORTCUT
-Uuid={7d1c39bc-1bf0-47b2-850e-4d267fb57a19}
+Uuid={14f2b177-3681-4a82-8d7d-67f13d146e07}
 
 [Data_3_6]
 Comment=请先阅读动作“输入‘Hello’”的注释。\n\n就如同“输入‘Hello’”动作，这个动作模拟一个键盘输入，特别是在按下 Ctrl+Alt+B 之后，它会发送 B 到 XMMS(在 XMMS 中的 B 就是跳到下一首歌)。这个“发送到指定窗口”选项被选中，并且指定窗口类别为包含“XMMS_Player”；这样就会使这个输入总是被发送到这个窗口。这样，您甚至可以在一个不同的虚拟桌面上控制 XMMS。\n\n(运行“xprop”并且点击 XMMS 窗口，搜索 WM_CLASS 可以看到“XMMS_Player”)。
@@ -688,7 +688,7 @@ TriggersCount=1
 [Data_3_6Triggers0]
 Key=Ctrl+Alt+B
 Type=SHORTCUT
-Uuid={445caafb-d4b1-4dda-9150-5f280a0fb71b}
+Uuid={0ca2aa07-a70a-4375-8c73-bdbfd061db99}
 
 [Data_3_7]
 Comment=KDE 3.1 中的 Konqi 有标签页，现在您还可以使用手势。\n\n只需要按住鼠标中键并且开始绘制一个手势，在您完成之后，释放鼠标按键。如果您只需要粘贴这个选择，它还可以工作，只需要简单地点击鼠标中键。(您可以改变全局设置中的鼠标按键)。\n\n现在，有如下可用的手势：\n向右移动然后回到左面 - 前进(Alt+Right)\n向左移动然后回到右面 - 后退(Alt+Left)\n向上移动然后回到下面 - 向上(Alt+Up)\n逆时针画圈 - 重新加载(F5)\n(等我找到 Opera 和 Mozilla 中更多的手势，我将会把它们添加进来并且保证它们是一致的。或者如果您也可以自己参与，请把您的 khotkeysrc 发给我。)\n\n这些手势形状(一些对话框来自于 KGesture，谢谢 Mike Pilone)可以在配置对话框中输入。您还可以看一下小键盘，它可以帮助您，手势被识别为一个 3x3 的网格区域，标识为 1 至 9。\n\n注意您必须准确地执行手势来触发动作。因此，它允许多个手势进入一个动作。您必须试图避免使用复杂的手势，例如您改变鼠标移动方向的次数超过一次(例如 45654 或者 74123 很简单就可以执行，但是 1236987 也许就太难了)。\n\n所有手势的条件都定义在这个组中。这些手势只有在激活窗口为 Konqueror(类别包含“konqueror”)时才会有效。
@@ -880,7 +880,7 @@ TriggersCount=1
 [Data_3_8Triggers0]
 Key=Meta+E
 Type=SHORTCUT
-Uuid={83d34bd6-b7e6-4b65-be8d-93bace10212d}
+Uuid={44f0b219-c0a0-4119-8197-62f972e9be9e}
 
 [Data_4]
 Comment=截图快捷键
@@ -922,7 +922,7 @@ TriggersCount=1
 [Data_4_1Triggers0]
 Key=Print
 Type=SHORTCUT
-Uuid={096c5d70-cbf9-434b-9bd5-9931fe253f0a}
+Uuid={d0ed17ba-b356-4c88-b0c1-f8844f46135b}
 
 [Data_4_2]
 Comment=对全屏 (所有显示器) 截图并保存
@@ -951,7 +951,7 @@ TriggersCount=1
 [Data_4_2Triggers0]
 Key=Shift+Print
 Type=SHORTCUT
-Uuid={12afcf7d-6696-4127-9b2d-f070fe5ae8db}
+Uuid={475a7fb1-3d3f-45dc-9e89-d2d2bf7f78ab}
 
 [Data_4_3]
 Comment=对当前活动窗口截图并保存
@@ -980,7 +980,7 @@ TriggersCount=1
 [Data_4_3Triggers0]
 Key=Meta+Print
 Type=SHORTCUT
-Uuid={5f5c1373-24d0-485e-958b-25c06050b79c}
+Uuid={9abed1a0-6678-46c9-be68-add267984942}
 
 [Data_4_4]
 Comment=对指定矩形区域截图并保存
@@ -1009,7 +1009,7 @@ TriggersCount=1
 [Data_4_4Triggers0]
 Key=Meta+Shift+Print
 Type=SHORTCUT
-Uuid={ef78c121-7f5c-4951-a7e0-142e4429f30f}
+Uuid={a0aa15f2-2501-483c-8163-4ed4f3e92054}
 
 [Directories]
 dir_pixmap[$d]
@@ -1048,7 +1048,7 @@ widgetStyle[$d]
 Breadcrumb Navigation[$d]
 
 [Main]
-AlreadyImported=defaults,konqueror_gestures_kde321,kde32b1,spectacle,konsole
+AlreadyImported=defaults,konqueror_gestures_kde321,konsole,kde32b1,spectacle
 Disabled=false
 Version=2
 
