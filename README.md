@@ -1,1 +1,1 @@
-# mypapers
+# my lab config
