@@ -1,1 +1,1 @@
-# my lab config
+# my lib config
